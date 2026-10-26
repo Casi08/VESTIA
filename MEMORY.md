@@ -1,0 +1,4 @@
+- [Expo Router focus hooks](expo-router-focus-hooks.md) — use router-exported focus hooks to avoid a separate React Navigation context during Expo SDK migrations.
+- [Expo FileSystem paths](expo-filesystem-paths.md) — use `Paths` and `File` for cache and downloads; don't assume legacy root-level path exports.
+- [Supabase auth connectivity](supabase-auth-connectivity.md) — check that the Project URL and public key match, and distinguish DNS, key, and CORS failures without exposing secrets.
+- [VESTIA photo privacy](vestia-photo-privacy.md) — keep wardrobe images private per user, store object paths, and use short-lived signed URLs.
