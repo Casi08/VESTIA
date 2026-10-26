@@ -1,0 +1,747 @@
+{"_e":"root:init","_t":1792426711803,"format":"v0-jsonl","version":"57.0.31"}
+{"_e":"env:mode","_t":1792426711804,"nodeEnv":"development","babelEnv":"development","mode":"development"}
+{"_e":"env:load","_t":1792426711806,"mode":"development","files":[],"env":{}}
+{"_e":"devserver:start","_t":1792426712541,"mode":"development","web":true,"baseUrl":"","asyncRoutes":false,"routerRoot":"../../../app","serverComponents":false,"serverActions":false,"serverRendering":false,"apiRoutes":false,"exporting":false}
+{"_e":"metro:config","_t":1792426713793,"serverRoot":"../../../../..","projectRoot":"../../..","exporting":false,"flags":{"autolinkingModuleResolution":true,"serverActions":false,"serverComponents":false,"reactCompiler":true,"optimizeGraph":false,"treeshaking":false,"logbox":false}}
+{"_e":"expo:dev-tools-plugin:load","_t":1792426714180,"plugins":[]}
+{"_e":"metro:server_log","_t":1792426717605,"level":"error","data":["An unknown error occurred while installing React Native DevTools. Details:\n\n/home/runner/workspace/node_modules/.pnpm/@react-native+debugger-shell@0.86.3/node_modules/@react-native/debugger-shell/bin/react-native-devtools: error while loading shared libraries: libglib-2.0.so.0: cannot open shared object file: No such file or directory\n"]}
+{"_e":"metro:instantiate","_t":1792426717835,"atlas":false,"workers":3,"host":"127.0.0.1","port":22043}
+{"_e":"metro:bundling:started","_t":1792426719898,"id":"1","platform":"web","environment":null,"entry":"node_modules/.pnpm/expo-router@57.0.28_a3433d1e364aa6717a37c62ac1c35dd1/node_modules/expo-router/entry.js"}
+{"_e":"metro:bundling:progress","_t":1792426719899,"id":"1","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1792426719903,"id":"1","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1792426721537,"id":"1","progress":0.010000000000000002,"total":1,"current":1}
+{"_e":"metro:bundling:progress","_t":1792426721638,"id":"1","progress":0.25,"total":10,"current":5}
+{"_e":"metro:bundling:progress","_t":1792426721746,"id":"1","progress":0.4444444444444444,"total":12,"current":8}
+{"_e":"metro:bundling:progress","_t":1792426721791,"id":"1","progress":0.5625,"total":12,"current":9}
+{"_e":"metro:bundling:progress","_t":1792426721892,"id":"1","progress":0.5625,"total":15,"current":10}
+{"_e":"metro:bundling:progress","_t":1792426721991,"id":"1","progress":0.5625,"total":27,"current":16}
+{"_e":"metro:bundling:progress","_t":1792426722096,"id":"1","progress":0.5625,"total":28,"current":18}
+{"_e":"metro:bundling:progress","_t":1792426722262,"id":"1","progress":0.5625,"total":28,"current":19}
+{"_e":"metro:bundling:progress","_t":1792426722365,"id":"1","progress":0.5625,"total":36,"current":24}
+{"_e":"metro:bundling:progress","_t":1792426722474,"id":"1","progress":0.5789224952741021,"total":46,"current":35}
+{"_e":"metro:bundling:progress","_t":1792426722574,"id":"1","progress":0.5789224952741021,"total":143,"current":42}
+{"_e":"metro:bundling:progress","_t":1792426722675,"id":"1","progress":0.5789224952741021,"total":146,"current":50}
+{"_e":"metro:bundling:progress","_t":1792426722796,"id":"1","progress":0.5789224952741021,"total":173,"current":56}
+{"_e":"metro:bundling:progress","_t":1792426722899,"id":"1","progress":0.5789224952741021,"total":177,"current":58}
+{"_e":"metro:bundling:progress","_t":1792426722999,"id":"1","progress":0.5789224952741021,"total":178,"current":58}
+{"_e":"metro:bundling:progress","_t":1792426723022,"id":"1","progress":0.5789224952741021,"total":178,"current":59}
+{"_e":"metro:bundling:progress","_t":1792426723123,"id":"1","progress":0.5789224952741021,"total":199,"current":64}
+{"_e":"metro:bundling:progress","_t":1792426723226,"id":"1","progress":0.5789224952741021,"total":203,"current":68}
+{"_e":"metro:bundling:progress","_t":1792426723327,"id":"1","progress":0.5789224952741021,"total":231,"current":77}
+{"_e":"metro:bundling:progress","_t":1792426723428,"id":"1","progress":0.5789224952741021,"total":244,"current":83}
+{"_e":"metro:bundling:progress","_t":1792426723531,"id":"1","progress":0.5789224952741021,"total":251,"current":97}
+{"_e":"metro:bundling:progress","_t":1792426723631,"id":"1","progress":0.5789224952741021,"total":265,"current":108}
+{"_e":"metro:bundling:progress","_t":1792426723731,"id":"1","progress":0.5789224952741021,"total":281,"current":121}
+{"_e":"metro:bundling:progress","_t":1792426723832,"id":"1","progress":0.5789224952741021,"total":288,"current":126}
+{"_e":"metro:bundling:progress","_t":1792426723935,"id":"1","progress":0.5789224952741021,"total":294,"current":138}
+{"_e":"metro:bundling:progress","_t":1792426724034,"id":"1","progress":0.5789224952741021,"total":300,"current":144}
+{"_e":"metro:bundling:progress","_t":1792426724136,"id":"1","progress":0.5789224952741021,"total":313,"current":169}
+{"_e":"metro:bundling:progress","_t":1792426724236,"id":"1","progress":0.5789224952741021,"total":318,"current":178}
+{"_e":"metro:bundling:progress","_t":1792426724376,"id":"1","progress":0.5789224952741021,"total":318,"current":179}
+{"_e":"metro:bundling:progress","_t":1792426724476,"id":"1","progress":0.5789224952741021,"total":322,"current":180}
+{"_e":"metro:bundling:progress","_t":1792426724626,"id":"1","progress":0.5789224952741021,"total":322,"current":181}
+{"_e":"metro:bundling:progress","_t":1792426724726,"id":"1","progress":0.5789224952741021,"total":325,"current":182}
+{"_e":"metro:bundling:progress","_t":1792426724843,"id":"1","progress":0.5789224952741021,"total":325,"current":183}
+{"_e":"metro:bundling:progress","_t":1792426724867,"id":"1","progress":0.5789224952741021,"total":325,"current":184}
+{"_e":"metro:bundling:progress","_t":1792426725126,"id":"1","progress":0.5789224952741021,"total":325,"current":186}
+{"_e":"metro:bundling:progress","_t":1792426725226,"id":"1","progress":0.5789224952741021,"total":329,"current":189}
+{"_e":"metro:bundling:progress","_t":1792426725329,"id":"1","progress":0.5789224952741021,"total":339,"current":199}
+{"_e":"metro:bundling:progress","_t":1792426725433,"id":"1","progress":0.5789224952741021,"total":353,"current":207}
+{"_e":"metro:bundling:progress","_t":1792426725535,"id":"1","progress":0.5789224952741021,"total":370,"current":214}
+{"_e":"metro:bundling:progress","_t":1792426725644,"id":"1","progress":0.5789224952741021,"total":375,"current":223}
+{"_e":"metro:bundling:progress","_t":1792426725750,"id":"1","progress":0.5789224952741021,"total":377,"current":232}
+{"_e":"metro:bundling:progress","_t":1792426725855,"id":"1","progress":0.5789224952741021,"total":433,"current":248}
+{"_e":"metro:bundling:progress","_t":1792426725958,"id":"1","progress":0.5789224952741021,"total":440,"current":261}
+{"_e":"metro:bundling:progress","_t":1792426726064,"id":"1","progress":0.5789224952741021,"total":451,"current":273}
+{"_e":"metro:bundling:progress","_t":1792426726163,"id":"1","progress":0.5789224952741021,"total":459,"current":289}
+{"_e":"metro:bundling:progress","_t":1792426726263,"id":"1","progress":0.5789224952741021,"total":463,"current":297}
+{"_e":"metro:bundling:progress","_t":1792426726367,"id":"1","progress":0.5789224952741021,"total":477,"current":302}
+{"_e":"metro:bundling:progress","_t":1792426726467,"id":"1","progress":0.5789224952741021,"total":487,"current":318}
+{"_e":"metro:bundling:progress","_t":1792426726568,"id":"1","progress":0.5789224952741021,"total":509,"current":324}
+{"_e":"metro:bundling:progress","_t":1792426726668,"id":"1","progress":0.5789224952741021,"total":544,"current":334}
+{"_e":"metro:bundling:progress","_t":1792426726770,"id":"1","progress":0.5789224952741021,"total":549,"current":343}
+{"_e":"metro:bundling:progress","_t":1792426726874,"id":"1","progress":0.5789224952741021,"total":553,"current":349}
+{"_e":"metro:bundling:progress","_t":1792426726975,"id":"1","progress":0.5789224952741021,"total":561,"current":357}
+{"_e":"metro:bundling:progress","_t":1792426727075,"id":"1","progress":0.5789224952741021,"total":571,"current":366}
+{"_e":"metro:bundling:progress","_t":1792426727175,"id":"1","progress":0.5789224952741021,"total":573,"current":372}
+{"_e":"metro:bundling:progress","_t":1792426727275,"id":"1","progress":0.5789224952741021,"total":577,"current":383}
+{"_e":"metro:bundling:progress","_t":1792426727375,"id":"1","progress":0.5789224952741021,"total":591,"current":391}
+{"_e":"metro:bundling:progress","_t":1792426727475,"id":"1","progress":0.5789224952741021,"total":593,"current":401}
+{"_e":"metro:bundling:progress","_t":1792426727576,"id":"1","progress":0.5789224952741021,"total":595,"current":406}
+{"_e":"metro:bundling:progress","_t":1792426727677,"id":"1","progress":0.5789224952741021,"total":623,"current":415}
+{"_e":"metro:bundling:progress","_t":1792426727779,"id":"1","progress":0.5789224952741021,"total":645,"current":420}
+{"_e":"metro:bundling:progress","_t":1792426727879,"id":"1","progress":0.5789224952741021,"total":647,"current":430}
+{"_e":"metro:bundling:progress","_t":1792426727979,"id":"1","progress":0.5789224952741021,"total":665,"current":441}
+{"_e":"metro:bundling:progress","_t":1792426728101,"id":"1","progress":0.5789224952741021,"total":665,"current":443}
+{"_e":"metro:bundling:progress","_t":1792426728212,"id":"1","progress":0.5789224952741021,"total":666,"current":443}
+{"_e":"metro:bundling:progress","_t":1792426728325,"id":"1","progress":0.5789224952741021,"total":2560,"current":447}
+{"_e":"metro:bundling:progress","_t":1792426728435,"id":"1","progress":0.5789224952741021,"total":2568,"current":455}
+{"_e":"metro:bundling:progress","_t":1792426728571,"id":"1","progress":0.5789224952741021,"total":2573,"current":463}
+{"_e":"metro:bundling:progress","_t":1792426728672,"id":"1","progress":0.5789224952741021,"total":2583,"current":483}
+{"_e":"metro:bundling:started","_t":1792426728723,"id":"2","platform":"web","environment":null,"entry":"node_modules/.pnpm/expo-router@57.0.28_a3433d1e364aa6717a37c62ac1c35dd1/node_modules/expo-router/entry.js"}
+{"_e":"metro:bundling:progress","_t":1792426728723,"id":"1","progress":0.5789224952741021,"total":2583,"current":483}
+{"_e":"metro:bundling:progress","_t":1792426728723,"id":"2","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1792426728773,"id":"1","progress":0.5789224952741021,"total":2598,"current":494}
+{"_e":"metro:bundling:progress","_t":1792426728773,"id":"2","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1792426728874,"id":"1","progress":0.5789224952741021,"total":2650,"current":511}
+{"_e":"metro:bundling:progress","_t":1792426728874,"id":"2","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1792426728974,"id":"1","progress":0.5789224952741021,"total":2658,"current":537}
+{"_e":"metro:bundling:progress","_t":1792426728974,"id":"2","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1792426729074,"id":"1","progress":0.5789224952741021,"total":2664,"current":561}
+{"_e":"metro:bundling:progress","_t":1792426729074,"id":"2","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1792426729174,"id":"1","progress":0.5789224952741021,"total":2670,"current":585}
+{"_e":"metro:bundling:progress","_t":1792426729175,"id":"2","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1792426729274,"id":"1","progress":0.5789224952741021,"total":2674,"current":608}
+{"_e":"metro:bundling:progress","_t":1792426729274,"id":"2","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1792426729386,"id":"1","progress":0.5789224952741021,"total":2674,"current":609}
+{"_e":"metro:bundling:progress","_t":1792426729386,"id":"2","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1792426729486,"id":"1","progress":0.5789224952741021,"total":2674,"current":611}
+{"_e":"metro:bundling:progress","_t":1792426729486,"id":"2","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1792426729932,"id":"1","progress":0.5789224952741021,"total":2674,"current":612}
+{"_e":"metro:bundling:progress","_t":1792426729932,"id":"2","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1792426730032,"id":"1","progress":0.5789224952741021,"total":2680,"current":629}
+{"_e":"metro:bundling:progress","_t":1792426730032,"id":"2","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1792426730172,"id":"1","progress":0.5789224952741021,"total":2680,"current":630}
+{"_e":"metro:bundling:progress","_t":1792426730172,"id":"2","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1792426730272,"id":"1","progress":0.5789224952741021,"total":2691,"current":652}
+{"_e":"metro:bundling:progress","_t":1792426730273,"id":"2","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1792426730372,"id":"1","progress":0.5789224952741021,"total":2696,"current":665}
+{"_e":"metro:bundling:progress","_t":1792426730372,"id":"2","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1792426730473,"id":"1","progress":0.5789224952741021,"total":2696,"current":695}
+{"_e":"metro:bundling:progress","_t":1792426730473,"id":"2","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1792426730574,"id":"1","progress":0.5789224952741021,"total":2696,"current":732}
+{"_e":"metro:bundling:progress","_t":1792426730574,"id":"2","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1792426730673,"id":"1","progress":0.5789224952741021,"total":2696,"current":773}
+{"_e":"metro:bundling:progress","_t":1792426730673,"id":"2","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1792426730773,"id":"1","progress":0.5789224952741021,"total":2696,"current":805}
+{"_e":"metro:bundling:progress","_t":1792426730773,"id":"2","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1792426730874,"id":"1","progress":0.5789224952741021,"total":2696,"current":845}
+{"_e":"metro:bundling:progress","_t":1792426730874,"id":"2","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1792426730975,"id":"1","progress":0.5789224952741021,"total":2696,"current":886}
+{"_e":"metro:bundling:progress","_t":1792426730975,"id":"2","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1792426731076,"id":"1","progress":0.5789224952741021,"total":2696,"current":923}
+{"_e":"metro:bundling:progress","_t":1792426731076,"id":"2","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1792426731176,"id":"1","progress":0.5789224952741021,"total":2696,"current":940}
+{"_e":"metro:bundling:progress","_t":1792426731176,"id":"2","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1792426731278,"id":"1","progress":0.5789224952741021,"total":2696,"current":955}
+{"_e":"metro:bundling:progress","_t":1792426731279,"id":"2","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1792426731379,"id":"1","progress":0.5789224952741021,"total":2696,"current":975}
+{"_e":"metro:bundling:progress","_t":1792426731379,"id":"2","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1792426731479,"id":"1","progress":0.5789224952741021,"total":2696,"current":1013}
+{"_e":"metro:bundling:progress","_t":1792426731479,"id":"2","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1792426731580,"id":"1","progress":0.5789224952741021,"total":2696,"current":1049}
+{"_e":"metro:bundling:progress","_t":1792426731580,"id":"2","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1792426731681,"id":"1","progress":0.5789224952741021,"total":2696,"current":1094}
+{"_e":"metro:bundling:progress","_t":1792426731681,"id":"2","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1792426731782,"id":"1","progress":0.5789224952741021,"total":2696,"current":1127}
+{"_e":"metro:bundling:progress","_t":1792426731783,"id":"2","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1792426731884,"id":"1","progress":0.5789224952741021,"total":2696,"current":1168}
+{"_e":"metro:bundling:progress","_t":1792426731884,"id":"2","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1792426731984,"id":"1","progress":0.5789224952741021,"total":2696,"current":1187}
+{"_e":"metro:bundling:progress","_t":1792426731984,"id":"2","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1792426732087,"id":"1","progress":0.5789224952741021,"total":2696,"current":1226}
+{"_e":"metro:bundling:progress","_t":1792426732087,"id":"2","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1792426732189,"id":"1","progress":0.5789224952741021,"total":2696,"current":1250}
+{"_e":"metro:bundling:progress","_t":1792426732189,"id":"2","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1792426732291,"id":"1","progress":0.5789224952741021,"total":2696,"current":1283}
+{"_e":"metro:bundling:progress","_t":1792426732291,"id":"2","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1792426732392,"id":"1","progress":0.5789224952741021,"total":2696,"current":1316}
+{"_e":"metro:bundling:progress","_t":1792426732392,"id":"2","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1792426732493,"id":"1","progress":0.5789224952741021,"total":2696,"current":1353}
+{"_e":"metro:bundling:progress","_t":1792426732493,"id":"2","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1792426732592,"id":"1","progress":0.5789224952741021,"total":2696,"current":1388}
+{"_e":"metro:bundling:progress","_t":1792426732593,"id":"2","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1792426732692,"id":"1","progress":0.5789224952741021,"total":2696,"current":1435}
+{"_e":"metro:bundling:progress","_t":1792426732692,"id":"2","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1792426732792,"id":"1","progress":0.5789224952741021,"total":2696,"current":1475}
+{"_e":"metro:bundling:progress","_t":1792426732792,"id":"2","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1792426732893,"id":"1","progress":0.5789224952741021,"total":2696,"current":1517}
+{"_e":"metro:bundling:progress","_t":1792426732894,"id":"2","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1792426732993,"id":"1","progress":0.5789224952741021,"total":2696,"current":1558}
+{"_e":"metro:bundling:progress","_t":1792426732993,"id":"2","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1792426733094,"id":"1","progress":0.5789224952741021,"total":2696,"current":1587}
+{"_e":"metro:bundling:progress","_t":1792426733094,"id":"2","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1792426733197,"id":"1","progress":0.5789224952741021,"total":2696,"current":1630}
+{"_e":"metro:bundling:progress","_t":1792426733197,"id":"2","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1792426733299,"id":"1","progress":0.5789224952741021,"total":2696,"current":1669}
+{"_e":"metro:bundling:progress","_t":1792426733299,"id":"2","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1792426733400,"id":"1","progress":0.5789224952741021,"total":2696,"current":1716}
+{"_e":"metro:bundling:progress","_t":1792426733400,"id":"2","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1792426733500,"id":"1","progress":0.5789224952741021,"total":2696,"current":1760}
+{"_e":"metro:bundling:progress","_t":1792426733500,"id":"2","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1792426733600,"id":"1","progress":0.5789224952741021,"total":2696,"current":1798}
+{"_e":"metro:bundling:progress","_t":1792426733600,"id":"2","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1792426733700,"id":"1","progress":0.5789224952741021,"total":2696,"current":1835}
+{"_e":"metro:bundling:progress","_t":1792426733700,"id":"2","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1792426733801,"id":"1","progress":0.5789224952741021,"total":2696,"current":1879}
+{"_e":"metro:bundling:progress","_t":1792426733801,"id":"2","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1792426733902,"id":"1","progress":0.5789224952741021,"total":2696,"current":1916}
+{"_e":"metro:bundling:progress","_t":1792426733902,"id":"2","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1792426734002,"id":"1","progress":0.5789224952741021,"total":2696,"current":1964}
+{"_e":"metro:bundling:progress","_t":1792426734002,"id":"2","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1792426734102,"id":"1","progress":0.5789224952741021,"total":2696,"current":2015}
+{"_e":"metro:bundling:progress","_t":1792426734102,"id":"2","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1792426734203,"id":"1","progress":0.5827079792901231,"total":2696,"current":2058}
+{"_e":"metro:bundling:progress","_t":1792426734203,"id":"2","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1792426734305,"id":"1","progress":0.6154332663402866,"total":2696,"current":2115}
+{"_e":"metro:bundling:progress","_t":1792426734305,"id":"2","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1792426734405,"id":"1","progress":0.6413063038769382,"total":2696,"current":2159}
+{"_e":"metro:bundling:progress","_t":1792426734405,"id":"2","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1792426734507,"id":"1","progress":0.675006081104879,"total":2696,"current":2215}
+{"_e":"metro:bundling:progress","_t":1792426734507,"id":"2","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1792426734607,"id":"1","progress":0.6977454234870432,"total":2696,"current":2252}
+{"_e":"metro:bundling:progress","_t":1792426734607,"id":"2","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1792426734707,"id":"1","progress":0.72717370607296,"total":2696,"current":2299}
+{"_e":"metro:bundling:progress","_t":1792426734707,"id":"2","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1792426734808,"id":"1","progress":0.7572098239836574,"total":2696,"current":2346}
+{"_e":"metro:bundling:progress","_t":1792426734808,"id":"2","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1792426734907,"id":"1","progress":0.7839079381257209,"total":2696,"current":2387}
+{"_e":"metro:bundling:progress","_t":1792426734907,"id":"2","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1792426735008,"id":"1","progress":0.8184343053562152,"total":2696,"current":2439}
+{"_e":"metro:bundling:progress","_t":1792426735008,"id":"2","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1792426735107,"id":"1","progress":0.848230068284479,"total":2696,"current":2483}
+{"_e":"metro:bundling:progress","_t":1792426735107,"id":"2","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1792426735207,"id":"1","progress":0.8792540217841135,"total":2696,"current":2528}
+{"_e":"metro:bundling:progress","_t":1792426735207,"id":"2","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1792426735307,"id":"1","progress":0.8962898542869497,"total":2703,"current":2559}
+{"_e":"metro:bundling:progress","_t":1792426735307,"id":"2","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1792426735407,"id":"1","progress":0.9019771399713828,"total":2725,"current":2588}
+{"_e":"metro:bundling:progress","_t":1792426735408,"id":"2","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1792426735513,"id":"1","progress":0.9080887055523559,"total":2741,"current":2612}
+{"_e":"metro:bundling:progress","_t":1792426735513,"id":"2","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1792426735613,"id":"1","progress":0.9101836755251291,"total":2763,"current":2636}
+{"_e":"metro:bundling:progress","_t":1792426735614,"id":"2","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1792426735714,"id":"1","progress":0.9101836755251291,"total":2794,"current":2658}
+{"_e":"metro:bundling:progress","_t":1792426735714,"id":"2","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1792426735813,"id":"1","progress":0.91680625,"total":2800,"current":2681}
+{"_e":"metro:bundling:progress","_t":1792426735813,"id":"2","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1792426735914,"id":"1","progress":0.9282094651003863,"total":2817,"current":2714}
+{"_e":"metro:bundling:progress","_t":1792426735914,"id":"2","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1792426736014,"id":"1","progress":0.9282094651003863,"total":2855,"current":2742}
+{"_e":"metro:bundling:progress","_t":1792426736014,"id":"2","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1792426736119,"id":"1","progress":0.9386461692520145,"total":2856,"current":2767}
+{"_e":"metro:bundling:progress","_t":1792426736120,"id":"2","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1792426736218,"id":"1","progress":0.9404755254811977,"total":2879,"current":2792}
+{"_e":"metro:bundling:progress","_t":1792426736218,"id":"2","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1792426736319,"id":"1","progress":0.9459653288216975,"total":2884,"current":2805}
+{"_e":"metro:bundling:progress","_t":1792426736319,"id":"2","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1792426736420,"id":"1","progress":0.9459653288216975,"total":2904,"current":2823}
+{"_e":"metro:bundling:progress","_t":1792426736420,"id":"2","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1792426736524,"id":"1","progress":0.9459653288216975,"total":2918,"current":2836}
+{"_e":"metro:bundling:progress","_t":1792426736524,"id":"2","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1792426736623,"id":"1","progress":0.9501091089318724,"total":2929,"current":2855}
+{"_e":"metro:bundling:progress","_t":1792426736623,"id":"2","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1792426736727,"id":"1","progress":0.955546202733705,"total":2936,"current":2870}
+{"_e":"metro:bundling:progress","_t":1792426736727,"id":"2","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1792426736826,"id":"1","progress":0.955546202733705,"total":2958,"current":2885}
+{"_e":"metro:bundling:progress","_t":1792426736826,"id":"2","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1792426736927,"id":"1","progress":0.9618700656662242,"total":2961,"current":2904}
+{"_e":"metro:bundling:progress","_t":1792426736927,"id":"2","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1792426737027,"id":"1","progress":0.9666245262603009,"total":2971,"current":2921}
+{"_e":"metro:bundling:progress","_t":1792426737027,"id":"2","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1792426737130,"id":"1","progress":0.9666245262603009,"total":3010,"current":2935}
+{"_e":"metro:bundling:progress","_t":1792426737130,"id":"2","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1792426737231,"id":"1","progress":0.9666245262603009,"total":3017,"current":2953}
+{"_e":"metro:bundling:progress","_t":1792426737231,"id":"2","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1792426737331,"id":"1","progress":0.9789548801311387,"total":3025,"current":2993}
+{"_e":"metro:bundling:progress","_t":1792426737331,"id":"2","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1792426737435,"id":"1","progress":0.9888029863065811,"total":3028,"current":3011}
+{"_e":"metro:bundling:progress","_t":1792426737435,"id":"2","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1792426737536,"id":"1","progress":0.9953894347581591,"total":3033,"current":3026}
+{"_e":"metro:bundling:progress","_t":1792426737536,"id":"2","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1792426737637,"id":"1","progress":0.9973727433352314,"total":3043,"current":3039}
+{"_e":"metro:bundling:progress","_t":1792426737637,"id":"2","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1792426737737,"id":"1","progress":0.999,"total":3044,"current":3044}
+{"_e":"metro:bundling:progress","_t":1792426737737,"id":"2","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:done","_t":1792426737906,"id":"1","total":3044,"ms":18007.157941}
+{"_e":"metro:bundling:progress","_t":1792426737906,"id":"2","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:done","_t":1792426737958,"id":"2","total":1,"ms":9235.287907}
+{"_e":"metro:client_log","_t":1792426738462,"level":"info","data":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"]}
+{"_e":"metro:client_log","_t":1792426738463,"level":"log","data":["Running application \"main\" with appParams:\n","{\"hydrate\": undefined, \"rootTag\": \"#root\"}","\nDevelopment-level warnings: ON.\nPerformance optimizations: OFF."]}
+{"_e":"metro:client_log","_t":1792426738632,"level":"warn","data":["An error occurred in the <ContextNavigator> component.\n\nConsider adding an error boundary to your tree to customize error handling behavior.\nVisit https://react.dev/link/error-boundaries to learn more about error boundaries.\n"]}
+{"_e":"metro:client_log","_t":1792426738873,"level":"error","data":["[Error: Invalid supabaseUrl: Must be a valid HTTP or HTTPS URL.]","\n\n\u001b[1mCode: supabase.ts\u001b[22m\n\u001b[0m \u001b[90m 29 |\u001b[39m }\u001b[33m;\u001b[39m\n \u001b[90m 30 |\u001b[39m\n\u001b[31m\u001b[1m>\u001b[22m\u001b[39m\u001b[90m 31 |\u001b[39m \u001b[36mexport\u001b[39m \u001b[36mconst\u001b[39m supabase \u001b[33m=\u001b[39m createClient(supabaseUrl\u001b[33m,\u001b[39m supabaseAnonKey\u001b[33m,\u001b[39m {\n \u001b[90m    |\u001b[39m                                     \u001b[31m\u001b[1m^\u001b[22m\u001b[39m\n \u001b[90m 32 |\u001b[39m   auth\u001b[33m:\u001b[39m {\n \u001b[90m 33 |\u001b[39m     storage\u001b[33m:\u001b[39m customStorageAdapter\u001b[33m,\u001b[39m\n \u001b[90m 34 |\u001b[39m     autoRefreshToken\u001b[33m:\u001b[39m \u001b[36mtrue\u001b[39m\u001b[33m,\u001b[39m\u001b[0m\n\u001b[1mCall Stack\u001b[22m\n\u001b[90m  <global> (artifacts/vestia-app/lib/supabase.ts:31:37)\u001b[39m\n\u001b[90m  <global> (artifacts/vestia-app/lib/auth-context.tsx:3)\u001b[39m\n\u001b[90m  <global> (artifacts/vestia-app/app/(tabs)/_layout.tsx:6)\u001b[39m","\n\n\u001b[1mCode: ExpoRoot.js\u001b[22m\n\u001b[0m \u001b[90m 83 |\u001b[39m                     initialMetrics\u001b[33m:\u001b[39m \u001b[33mINITIAL_METRICS\u001b[39m\u001b[33m,\u001b[39m children\u001b[33m:\u001b[39m children }) }) }))\u001b[33m;\u001b[39m\n \u001b[90m 84 |\u001b[39m     }\u001b[33m,\u001b[39m [\u001b[33mParentWrapper\u001b[39m])\u001b[33m;\u001b[39m\n\u001b[31m\u001b[1m>\u001b[22m\u001b[39m\u001b[90m 85 |\u001b[39m     \u001b[36mreturn\u001b[39m (\u001b[35m0\u001b[39m\u001b[33m,\u001b[39m jsx_runtime_1\u001b[33m.\u001b[39mjsx)(\u001b[33mContextNavigator\u001b[39m\u001b[33m,\u001b[39m { \u001b[33m...\u001b[39mprops\u001b[33m,\u001b[39m wrapper\u001b[33m:\u001b[39m wrapper })\u001b[33m;\u001b[39m\n \u001b[90m    |\u001b[39m                                 \u001b[31m\u001b[1m^\u001b[22m\u001b[39m\n \u001b[90m 86 |\u001b[39m }\n \u001b[90m 87 |\u001b[39m \u001b[36mconst\u001b[39m initialUrl \u001b[33m=\u001b[39m react_native_1\u001b[33m.\u001b[39m\u001b[33mPlatform\u001b[39m\u001b[33m.\u001b[39m\u001b[33mOS\u001b[39m \u001b[33m===\u001b[39m \u001b[32m'web'\u001b[39m \u001b[33m&&\u001b[39m \u001b[36mtypeof\u001b[39m window \u001b[33m!==\u001b[39m \u001b[32m'undefined'\u001b[39m\n \u001b[90m 88 |\u001b[39m     \u001b[33m?\u001b[39m \u001b[36mnew\u001b[39m \u001b[33mURL\u001b[39m(window\u001b[33m.\u001b[39mlocation\u001b[33m.\u001b[39mhref)\u001b[0m\n\u001b[1mCall Stack\u001b[22m\n\u001b[2m\u001b[90m  ExpoRoot (node_modules/.pnpm/expo-router@57.0.28_a3433d1e364aa6717a37c62ac1c35dd1/node_modules/expo-router/build/ExpoRoot.js:85:33)\u001b[39m\u001b[22m\n\u001b[2m\u001b[90m  App (node_modules/.pnpm/expo-router@57.0.28_a3433d1e364aa6717a37c62ac1c35dd1/node_modules/expo-router/build/qualified-entry.js:20:91)\u001b[39m\u001b[22m\n\u001b[2m\u001b[90m  WithDevTools (node_modules/.pnpm/expo@57.0.30_@babel+core@7.29.7_@expo+metro-runtime@57.0.17_expo-router@57.0.28_react-d_27fbf3b0a1934beec12d04220d51af5a/node_modules/expo/src/launch/withDevTools.web.tsx:11:9)\u001b[39m\u001b[22m"]}
+{"_e":"metro:client_log","_t":1792426740008,"level":"log","data":["Running application \"main\" with appParams:\n","{\"hydrate\": undefined, \"rootTag\": \"#root\"}","\nDevelopment-level warnings: ON.\nPerformance optimizations: OFF."]}
+{"_e":"metro:client_log","_t":1792426740128,"level":"warn","data":["An error occurred in the <ContextNavigator> component.\n\nConsider adding an error boundary to your tree to customize error handling behavior.\nVisit https://react.dev/link/error-boundaries to learn more about error boundaries.\n"]}
+{"_e":"metro:client_log","_t":1792426740131,"level":"error","data":["[Error: Invalid supabaseUrl: Must be a valid HTTP or HTTPS URL.]","\n\n\u001b[1mCode: supabase.ts\u001b[22m\n\u001b[0m \u001b[90m 29 |\u001b[39m }\u001b[33m;\u001b[39m\n \u001b[90m 30 |\u001b[39m\n\u001b[31m\u001b[1m>\u001b[22m\u001b[39m\u001b[90m 31 |\u001b[39m \u001b[36mexport\u001b[39m \u001b[36mconst\u001b[39m supabase \u001b[33m=\u001b[39m createClient(supabaseUrl\u001b[33m,\u001b[39m supabaseAnonKey\u001b[33m,\u001b[39m {\n \u001b[90m    |\u001b[39m                                     \u001b[31m\u001b[1m^\u001b[22m\u001b[39m\n \u001b[90m 32 |\u001b[39m   auth\u001b[33m:\u001b[39m {\n \u001b[90m 33 |\u001b[39m     storage\u001b[33m:\u001b[39m customStorageAdapter\u001b[33m,\u001b[39m\n \u001b[90m 34 |\u001b[39m     autoRefreshToken\u001b[33m:\u001b[39m \u001b[36mtrue\u001b[39m\u001b[33m,\u001b[39m\u001b[0m\n\u001b[1mCall Stack\u001b[22m\n\u001b[90m  <global> (artifacts/vestia-app/lib/supabase.ts:31:37)\u001b[39m\n\u001b[90m  <global> (artifacts/vestia-app/lib/auth-context.tsx:3)\u001b[39m\n\u001b[90m  <global> (artifacts/vestia-app/app/(tabs)/_layout.tsx:6)\u001b[39m","\n\n\u001b[1mCode: ExpoRoot.js\u001b[22m\n\u001b[0m \u001b[90m 83 |\u001b[39m                     initialMetrics\u001b[33m:\u001b[39m \u001b[33mINITIAL_METRICS\u001b[39m\u001b[33m,\u001b[39m children\u001b[33m:\u001b[39m children }) }) }))\u001b[33m;\u001b[39m\n \u001b[90m 84 |\u001b[39m     }\u001b[33m,\u001b[39m [\u001b[33mParentWrapper\u001b[39m])\u001b[33m;\u001b[39m\n\u001b[31m\u001b[1m>\u001b[22m\u001b[39m\u001b[90m 85 |\u001b[39m     \u001b[36mreturn\u001b[39m (\u001b[35m0\u001b[39m\u001b[33m,\u001b[39m jsx_runtime_1\u001b[33m.\u001b[39mjsx)(\u001b[33mContextNavigator\u001b[39m\u001b[33m,\u001b[39m { \u001b[33m...\u001b[39mprops\u001b[33m,\u001b[39m wrapper\u001b[33m:\u001b[39m wrapper })\u001b[33m;\u001b[39m\n \u001b[90m    |\u001b[39m                                 \u001b[31m\u001b[1m^\u001b[22m\u001b[39m\n \u001b[90m 86 |\u001b[39m }\n \u001b[90m 87 |\u001b[39m \u001b[36mconst\u001b[39m initialUrl \u001b[33m=\u001b[39m react_native_1\u001b[33m.\u001b[39m\u001b[33mPlatform\u001b[39m\u001b[33m.\u001b[39m\u001b[33mOS\u001b[39m \u001b[33m===\u001b[39m \u001b[32m'web'\u001b[39m \u001b[33m&&\u001b[39m \u001b[36mtypeof\u001b[39m window \u001b[33m!==\u001b[39m \u001b[32m'undefined'\u001b[39m\n \u001b[90m 88 |\u001b[39m     \u001b[33m?\u001b[39m \u001b[36mnew\u001b[39m \u001b[33mURL\u001b[39m(window\u001b[33m.\u001b[39mlocation\u001b[33m.\u001b[39mhref)\u001b[0m\n\u001b[1mCall Stack\u001b[22m\n\u001b[2m\u001b[90m  ExpoRoot (node_modules/.pnpm/expo-router@57.0.28_a3433d1e364aa6717a37c62ac1c35dd1/node_modules/expo-router/build/ExpoRoot.js:85:33)\u001b[39m\u001b[22m\n\u001b[2m\u001b[90m  App (node_modules/.pnpm/expo-router@57.0.28_a3433d1e364aa6717a37c62ac1c35dd1/node_modules/expo-router/build/qualified-entry.js:20:91)\u001b[39m\u001b[22m\n\u001b[2m\u001b[90m  WithDevTools (node_modules/.pnpm/expo@57.0.30_@babel+core@7.29.7_@expo+metro-runtime@57.0.17_expo-router@57.0.28_react-d_27fbf3b0a1934beec12d04220d51af5a/node_modules/expo/src/launch/withDevTools.web.tsx:11:9)\u001b[39m\u001b[22m"]}
+{"_e":"root:init","_t":1792427407942,"format":"v0-jsonl","version":"57.0.31"}
+{"_e":"env:mode","_t":1792427407944,"nodeEnv":"development","babelEnv":"development","mode":"development"}
+{"_e":"env:load","_t":1792427407946,"mode":"development","files":[],"env":{}}
+{"_e":"devserver:start","_t":1792427409828,"mode":"development","web":true,"baseUrl":"","asyncRoutes":false,"routerRoot":"../../../app","serverComponents":false,"serverActions":false,"serverRendering":false,"apiRoutes":false,"exporting":false}
+{"_e":"metro:config","_t":1792427412803,"serverRoot":"../../../../..","projectRoot":"../../..","exporting":false,"flags":{"autolinkingModuleResolution":true,"serverActions":false,"serverComponents":false,"reactCompiler":true,"optimizeGraph":false,"treeshaking":false,"logbox":false}}
+{"_e":"expo:dev-tools-plugin:load","_t":1792427413366,"plugins":[]}
+{"_e":"metro:server_log","_t":1792427413820,"level":"error","data":["An unknown error occurred while installing React Native DevTools. Details:\n\n/home/runner/workspace/node_modules/.pnpm/@react-native+debugger-shell@0.86.3/node_modules/@react-native/debugger-shell/bin/react-native-devtools: error while loading shared libraries: libglib-2.0.so.0: cannot open shared object file: No such file or directory\n"]}
+{"_e":"metro:instantiate","_t":1792427416380,"atlas":false,"workers":3,"host":"127.0.0.1","port":22043}
+{"_e":"metro:bundling:started","_t":1792427418035,"id":"1","platform":"web","environment":null,"entry":"node_modules/.pnpm/expo-router@57.0.28_a3433d1e364aa6717a37c62ac1c35dd1/node_modules/expo-router/entry.js"}
+{"_e":"metro:bundling:progress","_t":1792427418035,"id":"1","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1792427418039,"id":"1","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1792427418139,"id":"1","progress":0.09,"total":7,"current":3}
+{"_e":"metro:bundling:progress","_t":1792427418239,"id":"1","progress":0.10875961973743774,"total":188,"current":62}
+{"_e":"metro:bundling:progress","_t":1792427418339,"id":"1","progress":0.18537808641975312,"total":288,"current":124}
+{"_e":"metro:bundling:progress","_t":1792427418440,"id":"1","progress":0.3797675402167655,"total":443,"current":273}
+{"_e":"metro:bundling:progress","_t":1792427418539,"id":"1","progress":0.4193272268654254,"total":593,"current":384}
+{"_e":"metro:bundling:progress","_t":1792427418639,"id":"1","progress":0.4384587289992696,"total":666,"current":441}
+{"_e":"metro:bundling:progress","_t":1792427418739,"id":"1","progress":0.5280695454911541,"total":772,"current":561}
+{"_e":"metro:bundling:progress","_t":1792427418845,"id":"1","progress":0.6851127102358008,"total":801,"current":663}
+{"_e":"metro:bundling:progress","_t":1792427418952,"id":"1","progress":0.6851127102358008,"total":806,"current":666}
+{"_e":"metro:bundling:progress","_t":1792427419065,"id":"1","progress":0.6851127102358008,"total":2700,"current":666}
+{"_e":"metro:bundling:progress","_t":1792427419180,"id":"1","progress":0.6851127102358008,"total":2783,"current":760}
+{"_e":"metro:bundling:progress","_t":1792427419281,"id":"1","progress":0.6851127102358008,"total":2802,"current":806}
+{"_e":"metro:bundling:progress","_t":1792427419555,"id":"1","progress":0.6851127102358008,"total":2802,"current":807}
+{"_e":"metro:bundling:progress","_t":1792427419664,"id":"1","progress":0.7124034734035697,"total":2802,"current":2365}
+{"_e":"metro:bundling:progress","_t":1792427419763,"id":"1","progress":0.9521068846739397,"total":2929,"current":2858}
+{"_e":"metro:bundling:progress","_t":1792427419863,"id":"1","progress":0.998685075750342,"total":3041,"current":3039}
+{"_e":"metro:bundling:done","_t":1792427420154,"id":"1","total":3041,"ms":2119.390992}
+{"_e":"metro:client_log","_t":1792427421578,"level":"log","data":["Running application \"main\" with appParams:\n","{\"hydrate\": undefined, \"rootTag\": \"#root\"}","\nDevelopment-level warnings: ON.\nPerformance optimizations: OFF."]}
+{"_e":"metro:bundling:started","_t":1792427424974,"id":"7","platform":"web","environment":null,"entry":"node_modules/.pnpm/expo-router@57.0.28_a3433d1e364aa6717a37c62ac1c35dd1/node_modules/expo-router/entry.js"}
+{"_e":"metro:bundling:progress","_t":1792427424974,"id":"7","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:done","_t":1792427425079,"id":"7","total":1,"ms":105.352528}
+{"_e":"metro:client_log","_t":1792427425652,"level":"info","data":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"]}
+{"_e":"metro:client_log","_t":1792427425653,"level":"log","data":["Running application \"main\" with appParams:\n","{\"hydrate\": undefined, \"rootTag\": \"#root\"}","\nDevelopment-level warnings: ON.\nPerformance optimizations: OFF."]}
+{"_e":"metro:bundling:started","_t":1792427525614,"id":"e","platform":"web","environment":null,"entry":"node_modules/.pnpm/expo-router@57.0.28_a3433d1e364aa6717a37c62ac1c35dd1/node_modules/expo-router/entry.js"}
+{"_e":"metro:bundling:progress","_t":1792427525615,"id":"e","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:done","_t":1792427525789,"id":"e","total":1,"ms":173.563277}
+{"_e":"metro:client_log","_t":1792427526371,"level":"info","data":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"]}
+{"_e":"metro:client_log","_t":1792427526372,"level":"log","data":["Running application \"main\" with appParams:\n","{\"hydrate\": undefined, \"rootTag\": \"#root\"}","\nDevelopment-level warnings: ON.\nPerformance optimizations: OFF."]}
+{"_e":"metro:client_log","_t":1792427526693,"level":"warn","data":["An error occurred in the <HomeScreen(./(tabs)/index.tsx)> component.\n\nConsider adding an error boundary to your tree to customize error handling behavior.\nVisit https://react.dev/link/error-boundaries to learn more about error boundaries.\n"]}
+{"_e":"metro:client_log","_t":1792427526768,"level":"error","data":["[Error: Couldn't find a navigation object. Is your component inside NavigationContainer?]","\n\n\u001b[1mCode: index.tsx\u001b[22m\n\u001b[0m \u001b[90m 46 |\u001b[39m   }\u001b[33m,\u001b[39m [user])\u001b[33m;\u001b[39m\n \u001b[90m 47 |\u001b[39m\n\u001b[31m\u001b[1m>\u001b[22m\u001b[39m\u001b[90m 48 |\u001b[39m   useFocusEffect(\n \u001b[90m    |\u001b[39m                 \u001b[31m\u001b[1m^\u001b[22m\u001b[39m\n \u001b[90m 49 |\u001b[39m     useCallback(() \u001b[33m=>\u001b[39m {\n \u001b[90m 50 |\u001b[39m       loadData()\u001b[33m;\u001b[39m\n \u001b[90m 51 |\u001b[39m     }\u001b[33m,\u001b[39m [loadData])\u001b[0m\n\u001b[1mCall Stack\u001b[22m\n\u001b[90m  HomeScreen (artifacts/vestia-app/app/(tabs)/index.tsx:48:17)\u001b[39m","\n\n\u001b[1mCode: _layout.tsx\u001b[22m\n\u001b[0m \u001b[90m 93 |\u001b[39m \u001b[36mexport\u001b[39m \u001b[36mdefault\u001b[39m \u001b[36mfunction\u001b[39m \u001b[33mTabLayout\u001b[39m() {\n \u001b[90m 94 |\u001b[39m   \u001b[36mreturn\u001b[39m (\n\u001b[31m\u001b[1m>\u001b[22m\u001b[39m\u001b[90m 95 |\u001b[39m     \u001b[33m<\u001b[39m\u001b[33mTabs\u001b[39m\n \u001b[90m    |\u001b[39m     \u001b[31m\u001b[1m^\u001b[22m\u001b[39m\n \u001b[90m 96 |\u001b[39m       tabBar\u001b[33m=\u001b[39m{(props) \u001b[33m=>\u001b[39m \u001b[33m<\u001b[39m\u001b[33mVestiaTabBar\u001b[39m {\u001b[33m...\u001b[39mprops} \u001b[33m/\u001b[39m\u001b[33m>\u001b[39m}\n \u001b[90m 97 |\u001b[39m       screenOptions\u001b[33m=\u001b[39m{{\n \u001b[90m 98 |\u001b[39m         headerShown\u001b[33m:\u001b[39m \u001b[36mfalse\u001b[39m\u001b[33m,\u001b[39m\u001b[0m\n\u001b[1mCall Stack\u001b[22m\n\u001b[90m  TabLayout (artifacts/vestia-app/app/(tabs)/_layout.tsx:95:5)\u001b[39m\n\u001b[90m  RootLayout (artifacts/vestia-app/app/_layout.tsx:56:9)\u001b[39m"]}
+{"_e":"root:init","_t":1792427636258,"format":"v0-jsonl","version":"57.0.31"}
+{"_e":"env:mode","_t":1792427636260,"nodeEnv":"development","babelEnv":"development","mode":"development"}
+{"_e":"env:load","_t":1792427636263,"mode":"development","files":[],"env":{}}
+{"_e":"devserver:start","_t":1792427636914,"mode":"development","web":true,"baseUrl":"","asyncRoutes":false,"routerRoot":"../../../app","serverComponents":false,"serverActions":false,"serverRendering":false,"apiRoutes":false,"exporting":false}
+{"_e":"metro:config","_t":1792427638482,"serverRoot":"../../../../..","projectRoot":"../../..","exporting":false,"flags":{"autolinkingModuleResolution":true,"serverActions":false,"serverComponents":false,"reactCompiler":true,"optimizeGraph":false,"treeshaking":false,"logbox":false}}
+{"_e":"metro:server_log","_t":1792427638761,"level":"error","data":["An unknown error occurred while installing React Native DevTools. Details:\n\n/home/runner/workspace/node_modules/.pnpm/@react-native+debugger-shell@0.86.3/node_modules/@react-native/debugger-shell/bin/react-native-devtools: error while loading shared libraries: libglib-2.0.so.0: cannot open shared object file: No such file or directory\n"]}
+{"_e":"expo:dev-tools-plugin:load","_t":1792427638815,"plugins":[]}
+{"_e":"metro:instantiate","_t":1792427642098,"atlas":false,"workers":3,"host":"127.0.0.1","port":22043}
+{"_e":"metro:bundling:started","_t":1792427643575,"id":"1","platform":"web","environment":null,"entry":"node_modules/.pnpm/expo-router@57.0.28_a3433d1e364aa6717a37c62ac1c35dd1/node_modules/expo-router/entry.js"}
+{"_e":"metro:bundling:progress","_t":1792427643575,"id":"1","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1792427643579,"id":"1","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1792427643682,"id":"1","progress":0.04000000000000001,"total":115,"current":23}
+{"_e":"metro:bundling:progress","_t":1792427643781,"id":"1","progress":0.1761548297724972,"total":274,"current":115}
+{"_e":"metro:bundling:progress","_t":1792427643881,"id":"1","progress":0.2903562163554249,"total":399,"current":215}
+{"_e":"metro:bundling:progress","_t":1792427643981,"id":"1","progress":0.3532395870416518,"total":530,"current":315}
+{"_e":"metro:bundling:progress","_t":1792427644081,"id":"1","progress":0.48654930650815426,"total":648,"current":452}
+{"_e":"metro:bundling:progress","_t":1792427644187,"id":"1","progress":0.7506433477027978,"total":741,"current":642}
+{"_e":"metro:bundling:progress","_t":1792427644291,"id":"1","progress":0.7565497049682447,"total":745,"current":648}
+{"_e":"metro:bundling:progress","_t":1792427644413,"id":"1","progress":0.7565497049682447,"total":2667,"current":687}
+{"_e":"metro:bundling:progress","_t":1792427644514,"id":"1","progress":0.7565497049682447,"total":2694,"current":743}
+{"_e":"metro:bundling:progress","_t":1792427644727,"id":"1","progress":0.7565497049682447,"total":2694,"current":744}
+{"_e":"metro:bundling:progress","_t":1792427644826,"id":"1","progress":0.7916639798413697,"total":2694,"current":2397}
+{"_e":"metro:bundling:progress","_t":1792427644926,"id":"1","progress":0.964444206348686,"total":2843,"current":2792}
+{"_e":"metro:bundling:progress","_t":1792427645031,"id":"1","progress":0.9986329461611514,"total":2925,"current":2923}
+{"_e":"metro:bundling:done","_t":1792427645444,"id":"1","total":2925,"ms":1868.876855}
+{"_e":"metro:client_log","_t":1792427646910,"level":"log","data":["Running application \"main\" with appParams:\n","{\"hydrate\": undefined, \"rootTag\": \"#root\"}","\nDevelopment-level warnings: ON.\nPerformance optimizations: OFF."]}
+{"_e":"metro:bundling:started","_t":1792427658127,"id":"8","platform":"web","environment":null,"entry":"node_modules/.pnpm/expo-router@57.0.28_a3433d1e364aa6717a37c62ac1c35dd1/node_modules/expo-router/entry.js"}
+{"_e":"metro:bundling:progress","_t":1792427658127,"id":"8","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:done","_t":1792427658233,"id":"8","total":1,"ms":105.898818}
+{"_e":"metro:client_log","_t":1792427658781,"level":"info","data":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"]}
+{"_e":"metro:client_log","_t":1792427658782,"level":"log","data":["Running application \"main\" with appParams:\n","{\"hydrate\": undefined, \"rootTag\": \"#root\"}","\nDevelopment-level warnings: ON.\nPerformance optimizations: OFF."]}
+{"_e":"root:init","_t":1792427710229,"format":"v0-jsonl","version":"57.0.31"}
+{"_e":"env:mode","_t":1792427710229,"nodeEnv":"development","babelEnv":"development","mode":"development"}
+{"_e":"env:load","_t":1792427710231,"mode":"development","files":[],"env":{}}
+{"_e":"devserver:start","_t":1792427710488,"mode":"development","web":true,"baseUrl":"","asyncRoutes":false,"routerRoot":"../../../app","serverComponents":false,"serverActions":false,"serverRendering":false,"apiRoutes":false,"exporting":false}
+{"_e":"metro:config","_t":1792427711837,"serverRoot":"../../../../..","projectRoot":"../../..","exporting":false,"flags":{"autolinkingModuleResolution":true,"serverActions":false,"serverComponents":false,"reactCompiler":true,"optimizeGraph":false,"treeshaking":false,"logbox":false}}
+{"_e":"metro:server_log","_t":1792427711915,"level":"error","data":["An unknown error occurred while installing React Native DevTools. Details:\n\n/home/runner/workspace/node_modules/.pnpm/@react-native+debugger-shell@0.86.3/node_modules/@react-native/debugger-shell/bin/react-native-devtools: error while loading shared libraries: libglib-2.0.so.0: cannot open shared object file: No such file or directory\n"]}
+{"_e":"expo:dev-tools-plugin:load","_t":1792427712101,"plugins":[]}
+{"_e":"metro:instantiate","_t":1792427716129,"atlas":false,"workers":3,"host":"127.0.0.1","port":22043}
+{"_e":"metro:bundling:started","_t":1792427716728,"id":"1","platform":"web","environment":null,"entry":"node_modules/.pnpm/expo-router@57.0.28_a3433d1e364aa6717a37c62ac1c35dd1/node_modules/expo-router/entry.js"}
+{"_e":"metro:bundling:progress","_t":1792427716729,"id":"1","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1792427716732,"id":"1","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1792427716833,"id":"1","progress":0.0585327783558793,"total":186,"current":45}
+{"_e":"metro:bundling:progress","_t":1792427716933,"id":"1","progress":0.27910288358846563,"total":318,"current":168}
+{"_e":"metro:bundling:progress","_t":1792427717033,"id":"1","progress":0.3770800503115557,"total":526,"current":323}
+{"_e":"metro:bundling:progress","_t":1792427717133,"id":"1","progress":0.6061895656581099,"total":691,"current":538}
+{"_e":"metro:bundling:progress","_t":1792427717256,"id":"1","progress":0.758282326387694,"total":743,"current":647}
+{"_e":"metro:bundling:progress","_t":1792427717391,"id":"1","progress":0.758282326387694,"total":2637,"current":647}
+{"_e":"metro:bundling:progress","_t":1792427717493,"id":"1","progress":0.758282326387694,"total":2673,"current":709}
+{"_e":"metro:bundling:progress","_t":1792427717593,"id":"1","progress":0.758282326387694,"total":2693,"current":972}
+{"_e":"metro:bundling:progress","_t":1792427717693,"id":"1","progress":0.758282326387694,"total":2693,"current":2283}
+{"_e":"metro:bundling:progress","_t":1792427717802,"id":"1","progress":0.9514354219580881,"total":2888,"current":2817}
+{"_e":"metro:bundling:done","_t":1792427717987,"id":"1","total":2888,"ms":1258.062338}
+{"_e":"metro:client_log","_t":1792427719363,"level":"log","data":["Running application \"main\" with appParams:\n","{\"hydrate\": undefined, \"rootTag\": \"#root\"}","\nDevelopment-level warnings: ON.\nPerformance optimizations: OFF."]}
+{"_e":"metro:bundling:started","_t":1792427721824,"id":"7","platform":"web","environment":null,"entry":"node_modules/.pnpm/expo-router@57.0.28_a3433d1e364aa6717a37c62ac1c35dd1/node_modules/expo-router/entry.js"}
+{"_e":"metro:bundling:progress","_t":1792427721824,"id":"7","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:done","_t":1792427721931,"id":"7","total":1,"ms":106.839723}
+{"_e":"metro:client_log","_t":1792427722372,"level":"info","data":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"]}
+{"_e":"metro:client_log","_t":1792427722373,"level":"log","data":["Running application \"main\" with appParams:\n","{\"hydrate\": undefined, \"rootTag\": \"#root\"}","\nDevelopment-level warnings: ON.\nPerformance optimizations: OFF."]}
+{"_e":"root:init","_t":1792428283425,"format":"v0-jsonl","version":"57.0.31"}
+{"_e":"env:mode","_t":1792428283427,"nodeEnv":"development","babelEnv":"development","mode":"development"}
+{"_e":"env:load","_t":1792428283430,"mode":"development","files":[],"env":{}}
+{"_e":"devserver:start","_t":1792428285042,"mode":"development","web":true,"baseUrl":"","asyncRoutes":false,"routerRoot":"../../../app","serverComponents":false,"serverActions":false,"serverRendering":false,"apiRoutes":false,"exporting":false}
+{"_e":"metro:config","_t":1792428287877,"serverRoot":"../../../../..","projectRoot":"../../..","exporting":false,"flags":{"autolinkingModuleResolution":true,"serverActions":false,"serverComponents":false,"reactCompiler":true,"optimizeGraph":false,"treeshaking":false,"logbox":false}}
+{"_e":"expo:dev-tools-plugin:load","_t":1792428288329,"plugins":[]}
+{"_e":"metro:server_log","_t":1792428288629,"level":"error","data":["An unknown error occurred while installing React Native DevTools. Details:\n\n/home/runner/workspace/node_modules/.pnpm/@react-native+debugger-shell@0.86.3/node_modules/@react-native/debugger-shell/bin/react-native-devtools: error while loading shared libraries: libglib-2.0.so.0: cannot open shared object file: No such file or directory\n"]}
+{"_e":"metro:instantiate","_t":1792428291224,"atlas":false,"workers":3,"host":"127.0.0.1","port":22043}
+{"_e":"metro:bundling:started","_t":1792428292941,"id":"1","platform":"web","environment":null,"entry":"node_modules/.pnpm/expo-router@57.0.28_a3433d1e364aa6717a37c62ac1c35dd1/node_modules/expo-router/entry.js"}
+{"_e":"metro:bundling:progress","_t":1792428292941,"id":"1","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1792428292945,"id":"1","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1792428293048,"id":"1","progress":0.1111111111111111,"total":15,"current":5}
+{"_e":"metro:bundling:progress","_t":1792428293148,"id":"1","progress":0.1111111111111111,"total":224,"current":63}
+{"_e":"metro:bundling:progress","_t":1792428293249,"id":"1","progress":0.1761548297724972,"total":274,"current":115}
+{"_e":"metro:bundling:progress","_t":1792428293350,"id":"1","progress":0.3202962809608429,"total":417,"current":236}
+{"_e":"metro:bundling:progress","_t":1792428293450,"id":"1","progress":0.4254330005681357,"total":555,"current":362}
+{"_e":"metro:bundling:progress","_t":1792428293550,"id":"1","progress":0.6577403096655329,"total":672,"current":545}
+{"_e":"metro:bundling:progress","_t":1792428293660,"id":"1","progress":0.7579790905326174,"total":742,"current":646}
+{"_e":"metro:bundling:progress","_t":1792428293786,"id":"1","progress":0.7579790905326174,"total":744,"current":647}
+{"_e":"metro:bundling:progress","_t":1792428293886,"id":"1","progress":0.7579790905326174,"total":2638,"current":648}
+{"_e":"metro:bundling:progress","_t":1792428293986,"id":"1","progress":0.7579790905326174,"total":2687,"current":731}
+{"_e":"metro:bundling:progress","_t":1792428294086,"id":"1","progress":0.7579790905326174,"total":2687,"current":732}
+{"_e":"metro:bundling:progress","_t":1792428294181,"id":"1","progress":0.7579790905326174,"total":2687,"current":733}
+{"_e":"metro:bundling:progress","_t":1792428294281,"id":"1","progress":0.7579790905326174,"total":2694,"current":2107}
+{"_e":"metro:bundling:progress","_t":1792428294382,"id":"1","progress":0.9482450259694146,"total":2784,"current":2711}
+{"_e":"metro:bundling:progress","_t":1792428294487,"id":"1","progress":0.9753180581949432,"total":2899,"current":2863}
+{"_e":"metro:bundling:done","_t":1792428294799,"id":"1","total":2899,"ms":1857.673516}
+{"_e":"metro:client_log","_t":1792428296189,"level":"log","data":["Running application \"main\" with appParams:\n","{\"hydrate\": undefined, \"rootTag\": \"#root\"}","\nDevelopment-level warnings: ON.\nPerformance optimizations: OFF."]}
+{"_e":"metro:bundling:started","_t":1792428299477,"id":"7","platform":"web","environment":null,"entry":"node_modules/.pnpm/expo-router@57.0.28_a3433d1e364aa6717a37c62ac1c35dd1/node_modules/expo-router/entry.js"}
+{"_e":"metro:bundling:progress","_t":1792428299477,"id":"7","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:done","_t":1792428299648,"id":"7","total":1,"ms":171.064449}
+{"_e":"metro:client_log","_t":1792428300484,"level":"info","data":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"]}
+{"_e":"metro:client_log","_t":1792428300484,"level":"log","data":["Running application \"main\" with appParams:\n","{\"hydrate\": undefined, \"rootTag\": \"#root\"}","\nDevelopment-level warnings: ON.\nPerformance optimizations: OFF."]}
+{"_e":"root:init","_t":1792428404249,"format":"v0-jsonl","version":"57.0.31"}
+{"_e":"env:mode","_t":1792428404250,"nodeEnv":"development","babelEnv":"development","mode":"development"}
+{"_e":"env:load","_t":1792428404252,"mode":"development","files":[],"env":{}}
+{"_e":"devserver:start","_t":1792428404511,"mode":"development","web":true,"baseUrl":"","asyncRoutes":false,"routerRoot":"../../../app","serverComponents":false,"serverActions":false,"serverRendering":false,"apiRoutes":false,"exporting":false}
+{"_e":"metro:config","_t":1792428405744,"serverRoot":"../../../../..","projectRoot":"../../..","exporting":false,"flags":{"autolinkingModuleResolution":true,"serverActions":false,"serverComponents":false,"reactCompiler":true,"optimizeGraph":false,"treeshaking":false,"logbox":false}}
+{"_e":"metro:server_log","_t":1792428405810,"level":"error","data":["An unknown error occurred while installing React Native DevTools. Details:\n\n/home/runner/workspace/node_modules/.pnpm/@react-native+debugger-shell@0.86.3/node_modules/@react-native/debugger-shell/bin/react-native-devtools: error while loading shared libraries: libglib-2.0.so.0: cannot open shared object file: No such file or directory\n"]}
+{"_e":"expo:dev-tools-plugin:load","_t":1792428405993,"plugins":[]}
+{"_e":"metro:instantiate","_t":1792428409772,"atlas":false,"workers":3,"host":"127.0.0.1","port":22043}
+{"_e":"metro:bundling:started","_t":1792428410679,"id":"1","platform":"web","environment":null,"entry":"node_modules/.pnpm/expo-router@57.0.28_a3433d1e364aa6717a37c62ac1c35dd1/node_modules/expo-router/entry.js"}
+{"_e":"metro:bundling:progress","_t":1792428410680,"id":"1","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1792428410683,"id":"1","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1792428410782,"id":"1","progress":0.0688765586290207,"total":221,"current":58}
+{"_e":"metro:bundling:progress","_t":1792428410882,"id":"1","progress":0.21903660624199342,"total":297,"current":139}
+{"_e":"metro:bundling:progress","_t":1792428410982,"id":"1","progress":0.33035636300113547,"total":428,"current":246}
+{"_e":"metro:bundling:progress","_t":1792428411082,"id":"1","progress":0.38109450142710055,"total":554,"current":342}
+{"_e":"metro:bundling:progress","_t":1792428411185,"id":"1","progress":0.44375135379830166,"total":641,"current":427}
+{"_e":"metro:bundling:progress","_t":1792428411319,"id":"1","progress":0.49165820524491444,"total":676,"current":474}
+{"_e":"metro:bundling:progress","_t":1792428411420,"id":"1","progress":0.7326987830812854,"total":736,"current":630}
+{"_e":"metro:bundling:progress","_t":1792428411562,"id":"1","progress":0.7562453029251937,"total":744,"current":647}
+{"_e":"metro:bundling:progress","_t":1792428411670,"id":"1","progress":0.7562453029251937,"total":2638,"current":648}
+{"_e":"metro:bundling:progress","_t":1792428411769,"id":"1","progress":0.7562453029251937,"total":2694,"current":1030}
+{"_e":"metro:bundling:progress","_t":1792428411869,"id":"1","progress":0.8618510214620848,"total":2694,"current":2501}
+{"_e":"metro:bundling:progress","_t":1792428411969,"id":"1","progress":0.9390661239435858,"total":2876,"current":2787}
+{"_e":"metro:bundling:done","_t":1792428412161,"id":"1","total":2876,"ms":1481.538197}
+{"_e":"metro:client_log","_t":1792428413513,"level":"log","data":["Running application \"main\" with appParams:\n","{\"hydrate\": undefined, \"rootTag\": \"#root\"}","\nDevelopment-level warnings: ON.\nPerformance optimizations: OFF."]}
+{"_e":"metro:bundling:started","_t":1792428416766,"id":"7","platform":"web","environment":null,"entry":"node_modules/.pnpm/expo-router@57.0.28_a3433d1e364aa6717a37c62ac1c35dd1/node_modules/expo-router/entry.js"}
+{"_e":"metro:bundling:progress","_t":1792428416766,"id":"7","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:done","_t":1792428416856,"id":"7","total":1,"ms":89.472242}
+{"_e":"metro:client_log","_t":1792428417518,"level":"info","data":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"]}
+{"_e":"metro:client_log","_t":1792428417518,"level":"log","data":["Running application \"main\" with appParams:\n","{\"hydrate\": undefined, \"rootTag\": \"#root\"}","\nDevelopment-level warnings: ON.\nPerformance optimizations: OFF."]}
+{"_e":"metro:client_log","_t":1792428511701,"level":"error","data":["Failed to load data:","[Error: Could not find the table 'public.style_profiles' in the schema cache]","\n\n\u001b[1mCode: data.ts\u001b[22m\n\u001b[0m \u001b[90m 74 |\u001b[39m     \u001b[33m.\u001b[39mmaybeSingle()\u001b[33m;\u001b[39m\n \u001b[90m 75 |\u001b[39m\n\u001b[31m\u001b[1m>\u001b[22m\u001b[39m\u001b[90m 76 |\u001b[39m   \u001b[36mif\u001b[39m (error) \u001b[36mthrow\u001b[39m \u001b[36mnew\u001b[39m \u001b[33mError\u001b[39m(error\u001b[33m.\u001b[39mmessage)\u001b[33m;\u001b[39m\n \u001b[90m    |\u001b[39m                    \u001b[31m\u001b[1m^\u001b[22m\u001b[39m\n \u001b[90m 77 |\u001b[39m   \u001b[36mreturn\u001b[39m data\u001b[33m;\u001b[39m\n \u001b[90m 78 |\u001b[39m }\n \u001b[90m 79 |\u001b[39m\u001b[0m\n\u001b[1mCall Stack\u001b[22m\n\u001b[90m  fetchStyleProfile (artifacts/vestia-app/lib/data.ts:76:20)\u001b[39m\n\u001b[90m  loadData (artifacts/vestia-app/app/(tabs)/index.tsx:35:59)\u001b[39m"]}
+{"_e":"metro:client_log","_t":1792428518097,"level":"error","data":["Failed to load items:","[Error: Could not find the table 'public.clothing_items' in the schema cache]","\n\n\u001b[1mCode: data.ts\u001b[22m\n\u001b[0m \u001b[90m  9 |\u001b[39m     \u001b[33m.\u001b[39morder(\u001b[32m'created_at'\u001b[39m\u001b[33m,\u001b[39m { ascending\u001b[33m:\u001b[39m \u001b[36mfalse\u001b[39m })\u001b[33m;\u001b[39m\n \u001b[90m 10 |\u001b[39m\n\u001b[31m\u001b[1m>\u001b[22m\u001b[39m\u001b[90m 11 |\u001b[39m   \u001b[36mif\u001b[39m (error) \u001b[36mthrow\u001b[39m \u001b[36mnew\u001b[39m \u001b[33mError\u001b[39m(error\u001b[33m.\u001b[39mmessage)\u001b[33m;\u001b[39m\n \u001b[90m    |\u001b[39m                    \u001b[31m\u001b[1m^\u001b[22m\u001b[39m\n \u001b[90m 12 |\u001b[39m   \u001b[36mreturn\u001b[39m data \u001b[33m||\u001b[39m []\u001b[33m;\u001b[39m\n \u001b[90m 13 |\u001b[39m }\n \u001b[90m 14 |\u001b[39m\u001b[0m\n\u001b[1mCall Stack\u001b[22m\n\u001b[90m  fetchClothingItems (artifacts/vestia-app/lib/data.ts:11:20)\u001b[39m\n\u001b[90m  loadItems (artifacts/vestia-app/app/(tabs)/wardrobe.tsx:115:20)\u001b[39m"]}
+{"_e":"metro:client_log","_t":1792428519481,"level":"warn","data":["[expo-image-picker] `ImagePicker.MediaTypeOptions` have been deprecated. Use `ImagePicker.MediaType` or an array of `ImagePicker.MediaType` instead."]}
+{"_e":"metro:client_log","_t":1792428542344,"level":"warn","data":["[expo-image-picker] `ImagePicker.MediaTypeOptions` have been deprecated. Use `ImagePicker.MediaType` or an array of `ImagePicker.MediaType` instead."]}
+{"_e":"metro:client_log","_t":1792428574255,"level":"error","data":["Failed to load items:","[Error: Could not find the table 'public.clothing_items' in the schema cache]","\n\n\u001b[1mCode: data.ts\u001b[22m\n\u001b[0m \u001b[90m  9 |\u001b[39m     \u001b[33m.\u001b[39morder(\u001b[32m'created_at'\u001b[39m\u001b[33m,\u001b[39m { ascending\u001b[33m:\u001b[39m \u001b[36mfalse\u001b[39m })\u001b[33m;\u001b[39m\n \u001b[90m 10 |\u001b[39m\n\u001b[31m\u001b[1m>\u001b[22m\u001b[39m\u001b[90m 11 |\u001b[39m   \u001b[36mif\u001b[39m (error) \u001b[36mthrow\u001b[39m \u001b[36mnew\u001b[39m \u001b[33mError\u001b[39m(error\u001b[33m.\u001b[39mmessage)\u001b[33m;\u001b[39m\n \u001b[90m    |\u001b[39m                    \u001b[31m\u001b[1m^\u001b[22m\u001b[39m\n \u001b[90m 12 |\u001b[39m   \u001b[36mreturn\u001b[39m data \u001b[33m||\u001b[39m []\u001b[33m;\u001b[39m\n \u001b[90m 13 |\u001b[39m }\n \u001b[90m 14 |\u001b[39m\u001b[0m\n\u001b[1mCall Stack\u001b[22m\n\u001b[90m  fetchClothingItems (artifacts/vestia-app/lib/data.ts:11:20)\u001b[39m\n\u001b[90m  loadItems (artifacts/vestia-app/app/(tabs)/wardrobe.tsx:115:20)\u001b[39m"]}
+{"_e":"metro:client_log","_t":1792428575063,"level":"warn","data":["[expo-image-picker] `ImagePicker.MediaTypeOptions` have been deprecated. Use `ImagePicker.MediaType` or an array of `ImagePicker.MediaType` instead."]}
+{"_e":"metro:client_log","_t":1792428759226,"level":"warn","data":["[expo-image-picker] `ImagePicker.MediaTypeOptions` have been deprecated. Use `ImagePicker.MediaType` or an array of `ImagePicker.MediaType` instead."]}
+{"_e":"metro:client_log","_t":1792428762877,"level":"warn","data":["[expo-image-picker] `ImagePicker.MediaTypeOptions` have been deprecated. Use `ImagePicker.MediaType` or an array of `ImagePicker.MediaType` instead."]}
+{"_e":"metro:client_log","_t":1792428765921,"level":"warn","data":["[expo-image-picker] `ImagePicker.MediaTypeOptions` have been deprecated. Use `ImagePicker.MediaType` or an array of `ImagePicker.MediaType` instead."]}
+{"_e":"metro:client_log","_t":1792428972399,"level":"error","data":["Failed to load items:","[Error: Could not find the table 'public.clothing_items' in the schema cache]","\n\n\u001b[1mCode: data.ts\u001b[22m\n\u001b[0m \u001b[90m  8 |\u001b[39m     \u001b[33m.\u001b[39mselect(\u001b[32m'*'\u001b[39m)\n \u001b[90m  9 |\u001b[39m     \u001b[33m.\u001b[39meq(\u001b[32m'user_id'\u001b[39m\u001b[33m,\u001b[39m userId)\n\u001b[31m\u001b[1m>\u001b[22m\u001b[39m\u001b[90m 10 |\u001b[39m     \u001b[33m.\u001b[39morder(\u001b[32m'created_at'\u001b[39m\u001b[33m,\u001b[39m { ascending\u001b[33m:\u001b[39m \u001b[36mfalse\u001b[39m })\u001b[33m;\u001b[39m\n \u001b[90m    |\u001b[39m                                               \u001b[31m\u001b[1m^\u001b[22m\u001b[39m\n \u001b[90m 11 |\u001b[39m\n \u001b[90m 12 |\u001b[39m   \u001b[36mif\u001b[39m (error) \u001b[36mthrow\u001b[39m \u001b[36mnew\u001b[39m \u001b[33mError\u001b[39m(error\u001b[33m.\u001b[39mmessage)\u001b[33m;\u001b[39m\n \u001b[90m 13 |\u001b[39m   \u001b[36mreturn\u001b[39m \u001b[33mPromise\u001b[39m\u001b[33m.\u001b[39mall((data \u001b[33m||\u001b[39m [])\u001b[33m.\u001b[39mmap(withSignedClothingPhotos))\u001b[33m;\u001b[39m\u001b[0m\n\u001b[1mCall Stack\u001b[22m\n\u001b[90m  fetchClothingItems (artifacts/vestia-app/lib/data.ts:10:47)\u001b[39m\n\u001b[90m  loadItems (artifacts/vestia-app/app/(tabs)/wardrobe.tsx:120:15)\u001b[39m"]}
+{"_e":"metro:client_log","_t":1792428972918,"level":"error","data":["Failed to load items:","[Error: Could not find the table 'public.clothing_items' in the schema cache]","\n\n\u001b[1mCode: data.ts\u001b[22m\n\u001b[0m \u001b[90m 10 |\u001b[39m     \u001b[33m.\u001b[39morder(\u001b[32m'created_at'\u001b[39m\u001b[33m,\u001b[39m { ascending\u001b[33m:\u001b[39m \u001b[36mfalse\u001b[39m })\u001b[33m;\u001b[39m\n \u001b[90m 11 |\u001b[39m\n\u001b[31m\u001b[1m>\u001b[22m\u001b[39m\u001b[90m 12 |\u001b[39m   \u001b[36mif\u001b[39m (error) \u001b[36mthrow\u001b[39m \u001b[36mnew\u001b[39m \u001b[33mError\u001b[39m(error\u001b[33m.\u001b[39mmessage)\u001b[33m;\u001b[39m\n \u001b[90m    |\u001b[39m                    \u001b[31m\u001b[1m^\u001b[22m\u001b[39m\n \u001b[90m 13 |\u001b[39m   \u001b[36mreturn\u001b[39m \u001b[33mPromise\u001b[39m\u001b[33m.\u001b[39mall((data \u001b[33m||\u001b[39m [])\u001b[33m.\u001b[39mmap(withSignedClothingPhotos))\u001b[33m;\u001b[39m\n \u001b[90m 14 |\u001b[39m }\n \u001b[90m 15 |\u001b[39m\u001b[0m\n\u001b[1mCall Stack\u001b[22m\n\u001b[90m  fetchClothingItems (artifacts/vestia-app/lib/data.ts:12:20)\u001b[39m\n\u001b[90m  loadItems (artifacts/vestia-app/app/(tabs)/wardrobe.tsx:116:20)\u001b[39m"]}
+{"_e":"root:init","_t":1792429077864,"format":"v0-jsonl","version":"57.0.31"}
+{"_e":"env:mode","_t":1792429077866,"nodeEnv":"development","babelEnv":"development","mode":"development"}
+{"_e":"env:load","_t":1792429077868,"mode":"development","files":[],"env":{}}
+{"_e":"devserver:start","_t":1792429078675,"mode":"development","web":true,"baseUrl":"","asyncRoutes":false,"routerRoot":"../../../app","serverComponents":false,"serverActions":false,"serverRendering":false,"apiRoutes":false,"exporting":false}
+{"_e":"metro:config","_t":1792429080682,"serverRoot":"../../../../..","projectRoot":"../../..","exporting":false,"flags":{"autolinkingModuleResolution":true,"serverActions":false,"serverComponents":false,"reactCompiler":true,"optimizeGraph":false,"treeshaking":false,"logbox":false}}
+{"_e":"expo:dev-tools-plugin:load","_t":1792429081138,"plugins":[]}
+{"_e":"metro:server_log","_t":1792429081539,"level":"error","data":["An unknown error occurred while installing React Native DevTools. Details:\n\n/home/runner/workspace/node_modules/.pnpm/@react-native+debugger-shell@0.86.3/node_modules/@react-native/debugger-shell/bin/react-native-devtools: error while loading shared libraries: libglib-2.0.so.0: cannot open shared object file: No such file or directory\n"]}
+{"_e":"metro:instantiate","_t":1792429084509,"atlas":false,"workers":3,"host":"127.0.0.1","port":22043}
+{"_e":"metro:bundling:started","_t":1792429085564,"id":"1","platform":"web","environment":null,"entry":"node_modules/.pnpm/expo-router@57.0.28_a3433d1e364aa6717a37c62ac1c35dd1/node_modules/expo-router/entry.js"}
+{"_e":"metro:bundling:progress","_t":1792429085564,"id":"1","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1792429085567,"id":"1","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1792429085668,"id":"1","progress":0.04000000000000001,"total":5,"current":2}
+{"_e":"metro:bundling:progress","_t":1792429085738,"id":"1","progress":0.09,"total":5,"current":3}
+{"_e":"metro:bundling:progress","_t":1792429085838,"id":"1","progress":0.09,"total":184,"current":45}
+{"_e":"metro:bundling:progress","_t":1792429085939,"id":"1","progress":0.1761548297724972,"total":274,"current":115}
+{"_e":"metro:bundling:progress","_t":1792429086039,"id":"1","progress":0.30893529149576,"total":421,"current":234}
+{"_e":"metro:bundling:progress","_t":1792429086145,"id":"1","progress":0.4016761557476986,"total":598,"current":379}
+{"_e":"metro:bundling:progress","_t":1792429086244,"id":"1","progress":0.6694214876033059,"total":704,"current":576}
+{"_e":"metro:bundling:progress","_t":1792429086345,"id":"1","progress":0.7568533519251918,"total":746,"current":649}
+{"_e":"metro:bundling:progress","_t":1792429086499,"id":"1","progress":0.8604241576930212,"total":801,"current":743}
+{"_e":"metro:bundling:progress","_t":1792429086600,"id":"1","progress":0.8604241576930212,"total":2694,"current":743}
+{"_e":"metro:bundling:progress","_t":1792429086638,"id":"1","progress":0.8604241576930212,"total":2694,"current":744}
+{"_e":"metro:bundling:progress","_t":1792429086737,"id":"1","progress":0.8604241576930212,"total":2739,"current":777}
+{"_e":"metro:bundling:progress","_t":1792429086781,"id":"1","progress":0.8604241576930212,"total":2739,"current":778}
+{"_e":"metro:bundling:progress","_t":1792429086988,"id":"1","progress":0.8604241576930212,"total":2739,"current":780}
+{"_e":"metro:bundling:progress","_t":1792429087087,"id":"1","progress":0.8604241576930212,"total":2768,"current":2218}
+{"_e":"metro:bundling:progress","_t":1792429087187,"id":"1","progress":0.9603187301229482,"total":2894,"current":2836}
+{"_e":"metro:bundling:done","_t":1792429087353,"id":"1","total":2894,"ms":1788.957375}
+{"_e":"metro:client_log","_t":1792429088766,"level":"log","data":["Running application \"main\" with appParams:\n","{\"hydrate\": undefined, \"rootTag\": \"#root\"}","\nDevelopment-level warnings: ON.\nPerformance optimizations: OFF."]}
+{"_e":"metro:client_log","_t":1792429089616,"level":"error","data":["Failed to load data:","[Error: Could not find the table 'public.outfit_logs' in the schema cache]","\n\n\u001b[1mCode: data.ts\u001b[22m\n\u001b[0m \u001b[90m 53 |\u001b[39m     \u001b[33m.\u001b[39morder(\u001b[32m'date'\u001b[39m\u001b[33m,\u001b[39m { ascending\u001b[33m:\u001b[39m \u001b[36mfalse\u001b[39m })\u001b[33m;\u001b[39m\n \u001b[90m 54 |\u001b[39m\n\u001b[31m\u001b[1m>\u001b[22m\u001b[39m\u001b[90m 55 |\u001b[39m   \u001b[36mif\u001b[39m (error) \u001b[36mthrow\u001b[39m \u001b[36mnew\u001b[39m \u001b[33mError\u001b[39m(error\u001b[33m.\u001b[39mmessage)\u001b[33m;\u001b[39m\n \u001b[90m    |\u001b[39m                    \u001b[31m\u001b[1m^\u001b[22m\u001b[39m\n \u001b[90m 56 |\u001b[39m   \u001b[36mreturn\u001b[39m data \u001b[33m||\u001b[39m []\u001b[33m;\u001b[39m\n \u001b[90m 57 |\u001b[39m }\n \u001b[90m 58 |\u001b[39m\u001b[0m\n\u001b[1mCall Stack\u001b[22m\n\u001b[90m  fetchOutfitLogs (artifacts/vestia-app/lib/data.ts:55:20)\u001b[39m\n\u001b[90m  loadData (artifacts/vestia-app/app/(tabs)/index.tsx:35:59)\u001b[39m"]}
+{"_e":"metro:bundling:started","_t":1792429296792,"id":"g","platform":"web","environment":null,"entry":"node_modules/.pnpm/expo-router@57.0.28_a3433d1e364aa6717a37c62ac1c35dd1/node_modules/expo-router/entry.js"}
+{"_e":"metro:bundling:progress","_t":1792429296793,"id":"g","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:done","_t":1792429296897,"id":"g","total":1,"ms":104.484708}
+{"_e":"metro:client_log","_t":1792429298193,"level":"log","data":["Running application \"main\" with appParams:\n","{\"hydrate\": undefined, \"rootTag\": \"#root\"}","\nDevelopment-level warnings: ON.\nPerformance optimizations: OFF."]}
+{"_e":"metro:client_log","_t":1792429298551,"level":"error","data":["Failed to load data:","[Error: Could not find the table 'public.clothing_items' in the schema cache]","\n\n\u001b[1mCode: data.ts\u001b[22m\n\u001b[0m \u001b[90m 10 |\u001b[39m     \u001b[33m.\u001b[39morder(\u001b[32m'created_at'\u001b[39m\u001b[33m,\u001b[39m { ascending\u001b[33m:\u001b[39m \u001b[36mfalse\u001b[39m })\u001b[33m;\u001b[39m\n \u001b[90m 11 |\u001b[39m\n\u001b[31m\u001b[1m>\u001b[22m\u001b[39m\u001b[90m 12 |\u001b[39m   \u001b[36mif\u001b[39m (error) \u001b[36mthrow\u001b[39m \u001b[36mnew\u001b[39m \u001b[33mError\u001b[39m(error\u001b[33m.\u001b[39mmessage)\u001b[33m;\u001b[39m\n \u001b[90m    |\u001b[39m                    \u001b[31m\u001b[1m^\u001b[22m\u001b[39m\n \u001b[90m 13 |\u001b[39m   \u001b[36mreturn\u001b[39m \u001b[33mPromise\u001b[39m\u001b[33m.\u001b[39mall((data \u001b[33m||\u001b[39m [])\u001b[33m.\u001b[39mmap(withSignedClothingPhotos))\u001b[33m;\u001b[39m\n \u001b[90m 14 |\u001b[39m }\n \u001b[90m 15 |\u001b[39m\u001b[0m\n\u001b[1mCall Stack\u001b[22m\n\u001b[90m  fetchClothingItems (artifacts/vestia-app/lib/data.ts:12:20)\u001b[39m\n\u001b[90m  loadData (artifacts/vestia-app/app/(tabs)/index.tsx:35:59)\u001b[39m"]}
+{"_e":"metro:bundling:started","_t":1792429360317,"id":"p","platform":"web","environment":null,"entry":"node_modules/.pnpm/expo-router@57.0.28_a3433d1e364aa6717a37c62ac1c35dd1/node_modules/expo-router/entry.js"}
+{"_e":"metro:bundling:progress","_t":1792429360317,"id":"p","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:done","_t":1792429360421,"id":"p","total":1,"ms":103.514931}
+{"_e":"metro:client_log","_t":1792429361716,"level":"log","data":["Running application \"main\" with appParams:\n","{\"hydrate\": undefined, \"rootTag\": \"#root\"}","\nDevelopment-level warnings: ON.\nPerformance optimizations: OFF."]}
+{"_e":"metro:client_log","_t":1792429362628,"level":"error","data":["Failed to load data:","[Error: Could not find the table 'public.outfit_logs' in the schema cache]","\n\n\u001b[1mCode: data.ts\u001b[22m\n\u001b[0m \u001b[90m 53 |\u001b[39m     \u001b[33m.\u001b[39morder(\u001b[32m'date'\u001b[39m\u001b[33m,\u001b[39m { ascending\u001b[33m:\u001b[39m \u001b[36mfalse\u001b[39m })\u001b[33m;\u001b[39m\n \u001b[90m 54 |\u001b[39m\n\u001b[31m\u001b[1m>\u001b[22m\u001b[39m\u001b[90m 55 |\u001b[39m   \u001b[36mif\u001b[39m (error) \u001b[36mthrow\u001b[39m \u001b[36mnew\u001b[39m \u001b[33mError\u001b[39m(error\u001b[33m.\u001b[39mmessage)\u001b[33m;\u001b[39m\n \u001b[90m    |\u001b[39m                    \u001b[31m\u001b[1m^\u001b[22m\u001b[39m\n \u001b[90m 56 |\u001b[39m   \u001b[36mreturn\u001b[39m data \u001b[33m||\u001b[39m []\u001b[33m;\u001b[39m\n \u001b[90m 57 |\u001b[39m }\n \u001b[90m 58 |\u001b[39m\u001b[0m\n\u001b[1mCall Stack\u001b[22m\n\u001b[90m  fetchOutfitLogs (artifacts/vestia-app/lib/data.ts:55:20)\u001b[39m\n\u001b[90m  loadData (artifacts/vestia-app/app/(tabs)/index.tsx:35:59)\u001b[39m"]}
+{"_e":"metro:bundling:started","_t":1792430515309,"id":"y","platform":"web","environment":null,"entry":"node_modules/.pnpm/expo-router@57.0.28_a3433d1e364aa6717a37c62ac1c35dd1/node_modules/expo-router/entry.js"}
+{"_e":"metro:bundling:progress","_t":1792430515310,"id":"y","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:done","_t":1792430515433,"id":"y","total":1,"ms":123.493985}
+{"_e":"metro:client_log","_t":1792430516932,"level":"log","data":["Running application \"main\" with appParams:\n","{\"hydrate\": undefined, \"rootTag\": \"#root\"}","\nDevelopment-level warnings: ON.\nPerformance optimizations: OFF."]}
+{"_e":"metro:client_log","_t":1792430517788,"level":"error","data":["Failed to load data:","[Error: Could not find the table 'public.outfit_logs' in the schema cache]","\n\n\u001b[1mCode: data.ts\u001b[22m\n\u001b[0m \u001b[90m 53 |\u001b[39m     \u001b[33m.\u001b[39morder(\u001b[32m'date'\u001b[39m\u001b[33m,\u001b[39m { ascending\u001b[33m:\u001b[39m \u001b[36mfalse\u001b[39m })\u001b[33m;\u001b[39m\n \u001b[90m 54 |\u001b[39m\n\u001b[31m\u001b[1m>\u001b[22m\u001b[39m\u001b[90m 55 |\u001b[39m   \u001b[36mif\u001b[39m (error) \u001b[36mthrow\u001b[39m \u001b[36mnew\u001b[39m \u001b[33mError\u001b[39m(error\u001b[33m.\u001b[39mmessage)\u001b[33m;\u001b[39m\n \u001b[90m    |\u001b[39m                    \u001b[31m\u001b[1m^\u001b[22m\u001b[39m\n \u001b[90m 56 |\u001b[39m   \u001b[36mreturn\u001b[39m data \u001b[33m||\u001b[39m []\u001b[33m;\u001b[39m\n \u001b[90m 57 |\u001b[39m }\n \u001b[90m 58 |\u001b[39m\u001b[0m\n\u001b[1mCall Stack\u001b[22m\n\u001b[90m  fetchOutfitLogs (artifacts/vestia-app/lib/data.ts:55:20)\u001b[39m\n\u001b[90m  loadData (artifacts/vestia-app/app/(tabs)/index.tsx:35:59)\u001b[39m"]}
+{"_e":"metro:client_log","_t":1792430517953,"level":"error","data":["Failed to load data:","[Error: Could not find the table 'public.outfit_logs' in the schema cache]","\n\n\u001b[1mCode: data.ts\u001b[22m\n\u001b[0m \u001b[90m 53 |\u001b[39m     \u001b[33m.\u001b[39morder(\u001b[32m'date'\u001b[39m\u001b[33m,\u001b[39m { ascending\u001b[33m:\u001b[39m \u001b[36mfalse\u001b[39m })\u001b[33m;\u001b[39m\n \u001b[90m 54 |\u001b[39m\n\u001b[31m\u001b[1m>\u001b[22m\u001b[39m\u001b[90m 55 |\u001b[39m   \u001b[36mif\u001b[39m (error) \u001b[36mthrow\u001b[39m \u001b[36mnew\u001b[39m \u001b[33mError\u001b[39m(error\u001b[33m.\u001b[39mmessage)\u001b[33m;\u001b[39m\n \u001b[90m    |\u001b[39m                    \u001b[31m\u001b[1m^\u001b[22m\u001b[39m\n \u001b[90m 56 |\u001b[39m   \u001b[36mreturn\u001b[39m data \u001b[33m||\u001b[39m []\u001b[33m;\u001b[39m\n \u001b[90m 57 |\u001b[39m }\n \u001b[90m 58 |\u001b[39m\u001b[0m\n\u001b[1mCall Stack\u001b[22m\n\u001b[90m  fetchOutfitLogs (artifacts/vestia-app/lib/data.ts:55:20)\u001b[39m\n\u001b[90m  loadData (artifacts/vestia-app/app/(tabs)/index.tsx:35:59)\u001b[39m"]}
+{"_e":"metro:client_log","_t":1792430604687,"level":"error","data":["Failed to load data:","[Error: Could not find the table 'public.clothing_items' in the schema cache]","\n\n\u001b[1mCode: data.ts\u001b[22m\n\u001b[0m \u001b[90m 10 |\u001b[39m     \u001b[33m.\u001b[39morder(\u001b[32m'created_at'\u001b[39m\u001b[33m,\u001b[39m { ascending\u001b[33m:\u001b[39m \u001b[36mfalse\u001b[39m })\u001b[33m;\u001b[39m\n \u001b[90m 11 |\u001b[39m\n\u001b[31m\u001b[1m>\u001b[22m\u001b[39m\u001b[90m 12 |\u001b[39m   \u001b[36mif\u001b[39m (error) \u001b[36mthrow\u001b[39m \u001b[36mnew\u001b[39m \u001b[33mError\u001b[39m(error\u001b[33m.\u001b[39mmessage)\u001b[33m;\u001b[39m\n \u001b[90m    |\u001b[39m                    \u001b[31m\u001b[1m^\u001b[22m\u001b[39m\n \u001b[90m 13 |\u001b[39m   \u001b[36mreturn\u001b[39m \u001b[33mPromise\u001b[39m\u001b[33m.\u001b[39mall((data \u001b[33m||\u001b[39m [])\u001b[33m.\u001b[39mmap(withSignedClothingPhotos))\u001b[33m;\u001b[39m\n \u001b[90m 14 |\u001b[39m }\n \u001b[90m 15 |\u001b[39m\u001b[0m\n\u001b[1mCall Stack\u001b[22m\n\u001b[90m  fetchClothingItems (artifacts/vestia-app/lib/data.ts:12:20)\u001b[39m\n\u001b[90m  loadData (artifacts/vestia-app/app/(tabs)/index.tsx:35:59)\u001b[39m"]}
+{"_e":"root:init","_t":1792955722993,"format":"v0-jsonl","version":"57.0.31"}
+{"_e":"env:mode","_t":1792955722994,"nodeEnv":"development","babelEnv":"development","mode":"development"}
+{"_e":"env:load","_t":1792955722996,"mode":"development","files":[],"env":{}}
+{"_e":"devserver:start","_t":1792955724426,"mode":"development","web":true,"baseUrl":"","asyncRoutes":false,"routerRoot":"../../../app","serverComponents":false,"serverActions":false,"serverRendering":false,"apiRoutes":false,"exporting":false}
+{"_e":"metro:config","_t":1792955727143,"serverRoot":"../../../../..","projectRoot":"../../..","exporting":false,"flags":{"autolinkingModuleResolution":true,"serverActions":false,"serverComponents":false,"reactCompiler":true,"optimizeGraph":false,"treeshaking":false,"logbox":false}}
+{"_e":"expo:dev-tools-plugin:load","_t":1792955727472,"plugins":[]}
+{"_e":"metro:server_log","_t":1792955729000,"level":"error","data":["An unknown error occurred while installing React Native DevTools. Details:\n\n/home/runner/workspace/node_modules/.pnpm/@react-native+debugger-shell@0.86.3/node_modules/@react-native/debugger-shell/bin/react-native-devtools: error while loading shared libraries: libglib-2.0.so.0: cannot open shared object file: No such file or directory\n"]}
+{"_e":"metro:instantiate","_t":1792955731243,"atlas":false,"workers":3,"host":"127.0.0.1","port":22043}
+{"_e":"metro:bundling:started","_t":1792955732579,"id":"1","platform":"web","environment":null,"entry":"node_modules/.pnpm/expo-router@57.0.28_a3433d1e364aa6717a37c62ac1c35dd1/node_modules/expo-router/entry.js"}
+{"_e":"metro:bundling:progress","_t":1792955732580,"id":"1","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1792955732582,"id":"1","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1792955733061,"id":"1","progress":0.010000000000000002,"total":1,"current":1}
+{"_e":"metro:bundling:progress","_t":1792955733161,"id":"1","progress":0.48999999999999994,"total":10,"current":7}
+{"_e":"metro:bundling:progress","_t":1792955733268,"id":"1","progress":0.48999999999999994,"total":12,"current":8}
+{"_e":"metro:bundling:progress","_t":1792955733285,"id":"1","progress":0.5625,"total":12,"current":9}
+{"_e":"metro:bundling:progress","_t":1792955733385,"id":"1","progress":0.5625,"total":27,"current":15}
+{"_e":"metro:bundling:progress","_t":1792955733505,"id":"1","progress":0.5625,"total":28,"current":19}
+{"_e":"metro:bundling:progress","_t":1792955733605,"id":"1","progress":0.5625,"total":36,"current":25}
+{"_e":"metro:bundling:progress","_t":1792955733705,"id":"1","progress":0.5625,"total":75,"current":39}
+{"_e":"metro:bundling:progress","_t":1792955733805,"id":"1","progress":0.5625,"total":146,"current":49}
+{"_e":"metro:bundling:progress","_t":1792955733908,"id":"1","progress":0.5625,"total":172,"current":67}
+{"_e":"metro:bundling:progress","_t":1792955734009,"id":"1","progress":0.5625,"total":219,"current":77}
+{"_e":"metro:bundling:progress","_t":1792955734109,"id":"1","progress":0.5625,"total":254,"current":92}
+{"_e":"metro:bundling:progress","_t":1792955734209,"id":"1","progress":0.5625,"total":267,"current":110}
+{"_e":"metro:bundling:progress","_t":1792955734314,"id":"1","progress":0.5625,"total":286,"current":125}
+{"_e":"metro:bundling:progress","_t":1792955734414,"id":"1","progress":0.5625,"total":300,"current":141}
+{"_e":"metro:bundling:progress","_t":1792955734515,"id":"1","progress":0.5625,"total":335,"current":170}
+{"_e":"metro:bundling:progress","_t":1792955734755,"id":"1","progress":0.5625,"total":335,"current":171}
+{"_e":"metro:bundling:progress","_t":1792955734873,"id":"1","progress":0.5625,"total":379,"current":188}
+{"_e":"metro:bundling:progress","_t":1792955734980,"id":"1","progress":0.5625,"total":394,"current":204}
+{"_e":"metro:bundling:progress","_t":1792955735077,"id":"1","progress":0.5625,"total":394,"current":205}
+{"_e":"metro:bundling:progress","_t":1792955735177,"id":"1","progress":0.5625,"total":402,"current":208}
+{"_e":"metro:bundling:progress","_t":1792955735267,"id":"1","progress":0.5625,"total":402,"current":209}
+{"_e":"metro:bundling:progress","_t":1792955735392,"id":"1","progress":0.5625,"total":402,"current":210}
+{"_e":"metro:bundling:progress","_t":1792955735492,"id":"1","progress":0.5625,"total":404,"current":212}
+{"_e":"metro:bundling:progress","_t":1792955735594,"id":"1","progress":0.5625,"total":408,"current":215}
+{"_e":"metro:bundling:progress","_t":1792955735694,"id":"1","progress":0.5625,"total":409,"current":220}
+{"_e":"metro:bundling:progress","_t":1792955735794,"id":"1","progress":0.5625,"total":422,"current":246}
+{"_e":"metro:bundling:progress","_t":1792955735900,"id":"1","progress":0.5625,"total":445,"current":268}
+{"_e":"metro:bundling:progress","_t":1792955736000,"id":"1","progress":0.5625,"total":459,"current":291}
+{"_e":"metro:bundling:progress","_t":1792955736101,"id":"1","progress":0.5625,"total":463,"current":304}
+{"_e":"metro:bundling:progress","_t":1792955736275,"id":"1","progress":0.5625,"total":481,"current":315}
+{"_e":"metro:bundling:progress","_t":1792955736375,"id":"1","progress":0.5625,"total":505,"current":343}
+{"_e":"metro:bundling:progress","_t":1792955736475,"id":"1","progress":0.5625,"total":526,"current":371}
+{"_e":"metro:bundling:progress","_t":1792955736576,"id":"1","progress":0.5625,"total":588,"current":400}
+{"_e":"metro:bundling:progress","_t":1792955736676,"id":"1","progress":0.5625,"total":625,"current":417}
+{"_e":"metro:bundling:progress","_t":1792955736776,"id":"1","progress":0.5625,"total":648,"current":444}
+{"_e":"metro:bundling:progress","_t":1792955736877,"id":"1","progress":0.5625,"total":656,"current":461}
+{"_e":"metro:bundling:progress","_t":1792955736978,"id":"1","progress":0.5625,"total":663,"current":478}
+{"_e":"metro:bundling:progress","_t":1792955737078,"id":"1","progress":0.5625,"total":672,"current":497}
+{"_e":"metro:bundling:progress","_t":1792955737180,"id":"1","progress":0.6008543118238157,"total":676,"current":524}
+{"_e":"metro:bundling:progress","_t":1792955737280,"id":"1","progress":0.6423551038062284,"total":680,"current":545}
+{"_e":"metro:bundling:progress","_t":1792955737393,"id":"1","progress":0.6718229977382376,"total":682,"current":559}
+{"_e":"metro:bundling:progress","_t":1792955737504,"id":"1","progress":0.6718229977382376,"total":2576,"current":560}
+{"_e":"metro:bundling:progress","_t":1792955737607,"id":"1","progress":0.6718229977382376,"total":2589,"current":574}
+{"_e":"metro:bundling:progress","_t":1792955737710,"id":"1","progress":0.6718229977382376,"total":2602,"current":588}
+{"_e":"metro:bundling:progress","_t":1792955737807,"id":"1","progress":0.6718229977382376,"total":2624,"current":616}
+{"_e":"metro:bundling:progress","_t":1792955737908,"id":"1","progress":0.6718229977382376,"total":2629,"current":636}
+{"_e":"metro:bundling:progress","_t":1792955738011,"id":"1","progress":0.6718229977382376,"total":2649,"current":663}
+{"_e":"metro:bundling:progress","_t":1792955738111,"id":"1","progress":0.6718229977382376,"total":2658,"current":684}
+{"_e":"metro:bundling:progress","_t":1792955738212,"id":"1","progress":0.6718229977382376,"total":2658,"current":733}
+{"_e":"metro:bundling:progress","_t":1792955738312,"id":"1","progress":0.6718229977382376,"total":2658,"current":777}
+{"_e":"metro:bundling:progress","_t":1792955738412,"id":"1","progress":0.6718229977382376,"total":2658,"current":824}
+{"_e":"metro:bundling:progress","_t":1792955738512,"id":"1","progress":0.6718229977382376,"total":2658,"current":872}
+{"_e":"metro:bundling:progress","_t":1792955738614,"id":"1","progress":0.6718229977382376,"total":2658,"current":917}
+{"_e":"metro:bundling:progress","_t":1792955738715,"id":"1","progress":0.6718229977382376,"total":2658,"current":970}
+{"_e":"metro:bundling:progress","_t":1792955738815,"id":"1","progress":0.6718229977382376,"total":2658,"current":1021}
+{"_e":"metro:bundling:progress","_t":1792955738919,"id":"1","progress":0.6718229977382376,"total":2658,"current":1077}
+{"_e":"metro:bundling:progress","_t":1792955739019,"id":"1","progress":0.6718229977382376,"total":2658,"current":1109}
+{"_e":"metro:bundling:progress","_t":1792955739119,"id":"1","progress":0.6718229977382376,"total":2658,"current":1165}
+{"_e":"metro:bundling:progress","_t":1792955739223,"id":"1","progress":0.6718229977382376,"total":2658,"current":1221}
+{"_e":"metro:bundling:progress","_t":1792955739323,"id":"1","progress":0.6718229977382376,"total":2658,"current":1268}
+{"_e":"metro:bundling:progress","_t":1792955739423,"id":"1","progress":0.6718229977382376,"total":2658,"current":1318}
+{"_e":"metro:bundling:progress","_t":1792955739523,"id":"1","progress":0.6718229977382376,"total":2658,"current":1364}
+{"_e":"metro:bundling:progress","_t":1792955739623,"id":"1","progress":0.6718229977382376,"total":2658,"current":1420}
+{"_e":"metro:bundling:progress","_t":1792955739723,"id":"1","progress":0.6718229977382376,"total":2658,"current":1463}
+{"_e":"metro:bundling:progress","_t":1792955739823,"id":"1","progress":0.6718229977382376,"total":2658,"current":1525}
+{"_e":"metro:bundling:progress","_t":1792955739924,"id":"1","progress":0.6718229977382376,"total":2658,"current":1575}
+{"_e":"metro:bundling:progress","_t":1792955740023,"id":"1","progress":0.6718229977382376,"total":2658,"current":1641}
+{"_e":"metro:bundling:progress","_t":1792955740123,"id":"1","progress":0.6718229977382376,"total":2658,"current":1696}
+{"_e":"metro:bundling:progress","_t":1792955740223,"id":"1","progress":0.6718229977382376,"total":2658,"current":1754}
+{"_e":"metro:bundling:progress","_t":1792955740323,"id":"1","progress":0.6718229977382376,"total":2658,"current":1804}
+{"_e":"metro:bundling:progress","_t":1792955740423,"id":"1","progress":0.6718229977382376,"total":2658,"current":1857}
+{"_e":"metro:bundling:progress","_t":1792955740523,"id":"1","progress":0.6718229977382376,"total":2658,"current":1906}
+{"_e":"metro:bundling:progress","_t":1792955740624,"id":"1","progress":0.6718229977382376,"total":2658,"current":1957}
+{"_e":"metro:bundling:progress","_t":1792955740725,"id":"1","progress":0.6718229977382376,"total":2658,"current":2006}
+{"_e":"metro:bundling:progress","_t":1792955740827,"id":"1","progress":0.6718229977382376,"total":2658,"current":2053}
+{"_e":"metro:bundling:progress","_t":1792955740927,"id":"1","progress":0.6718229977382376,"total":2658,"current":2107}
+{"_e":"metro:bundling:progress","_t":1792955741027,"id":"1","progress":0.6718229977382376,"total":2658,"current":2160}
+{"_e":"metro:bundling:progress","_t":1792955741127,"id":"1","progress":0.6963268319555486,"total":2658,"current":2218}
+{"_e":"metro:bundling:progress","_t":1792955741228,"id":"1","progress":0.7293596966665363,"total":2658,"current":2270}
+{"_e":"metro:bundling:progress","_t":1792955741328,"id":"1","progress":0.7664482083702053,"total":2658,"current":2327}
+{"_e":"metro:bundling:progress","_t":1792955741428,"id":"1","progress":0.8024331051085327,"total":2658,"current":2381}
+{"_e":"metro:bundling:progress","_t":1792955741529,"id":"1","progress":0.8440756386019801,"total":2658,"current":2442}
+{"_e":"metro:bundling:progress","_t":1792955741629,"id":"1","progress":0.8832322429385344,"total":2658,"current":2498}
+{"_e":"metro:bundling:progress","_t":1792955741730,"id":"1","progress":0.9203868554744229,"total":2658,"current":2550}
+{"_e":"metro:bundling:progress","_t":1792955741831,"id":"1","progress":0.9431747539787344,"total":2671,"current":2594}
+{"_e":"metro:bundling:progress","_t":1792955741931,"id":"1","progress":0.9501545682368198,"total":2694,"current":2626}
+{"_e":"metro:bundling:progress","_t":1792955742031,"id":"1","progress":0.9502512689411434,"total":2739,"current":2670}
+{"_e":"metro:bundling:progress","_t":1792955742131,"id":"1","progress":0.9502512689411434,"total":2769,"current":2694}
+{"_e":"metro:bundling:progress","_t":1792955742231,"id":"1","progress":0.9502512689411434,"total":2788,"current":2714}
+{"_e":"metro:bundling:progress","_t":1792955742331,"id":"1","progress":0.9502512689411434,"total":2814,"current":2730}
+{"_e":"metro:bundling:progress","_t":1792955742431,"id":"1","progress":0.9502512689411434,"total":2838,"current":2764}
+{"_e":"metro:bundling:progress","_t":1792955742533,"id":"1","progress":0.964444206348686,"total":2843,"current":2792}
+{"_e":"metro:bundling:progress","_t":1792955742633,"id":"1","progress":0.964444206348686,"total":2885,"current":2812}
+{"_e":"metro:bundling:progress","_t":1792955742734,"id":"1","progress":0.964444206348686,"total":2895,"current":2836}
+{"_e":"metro:bundling:progress","_t":1792955742835,"id":"1","progress":0.9719815754858947,"total":2906,"current":2865}
+{"_e":"metro:bundling:progress","_t":1792955742934,"id":"1","progress":0.9924619079757645,"total":2913,"current":2902}
+{"_e":"metro:bundling:progress","_t":1792955743036,"id":"1","progress":0.9965841186354008,"total":2925,"current":2920}
+{"_e":"metro:bundling:progress","_t":1792955743150,"id":"1","progress":0.999,"total":2929,"current":2929}
+{"_e":"metro:bundling:done","_t":1792955743287,"id":"1","total":2929,"ms":10707.694354}
+{"_e":"metro:client_log","_t":1792955744566,"level":"log","data":["Running application \"main\" with appParams:\n","{\"hydrate\": undefined, \"rootTag\": \"#root\"}","\nDevelopment-level warnings: ON.\nPerformance optimizations: OFF."]}
+{"_e":"metro:client_log","_t":1792955746634,"level":"error","data":["Failed to load data:","[Error: Could not find the table 'public.style_profiles' in the schema cache]","\n\n\u001b[1mCode: data.ts\u001b[22m\n\u001b[0m \u001b[90m 75 |\u001b[39m     \u001b[33m.\u001b[39mmaybeSingle()\u001b[33m;\u001b[39m\n \u001b[90m 76 |\u001b[39m\n\u001b[31m\u001b[1m>\u001b[22m\u001b[39m\u001b[90m 77 |\u001b[39m   \u001b[36mif\u001b[39m (error) \u001b[36mthrow\u001b[39m \u001b[36mnew\u001b[39m \u001b[33mError\u001b[39m(error\u001b[33m.\u001b[39mmessage)\u001b[33m;\u001b[39m\n \u001b[90m    |\u001b[39m                    \u001b[31m\u001b[1m^\u001b[22m\u001b[39m\n \u001b[90m 78 |\u001b[39m   \u001b[36mreturn\u001b[39m data\u001b[33m;\u001b[39m\n \u001b[90m 79 |\u001b[39m }\n \u001b[90m 80 |\u001b[39m\u001b[0m\n\u001b[1mCall Stack\u001b[22m\n\u001b[90m  fetchStyleProfile (artifacts/vestia-app/lib/data.ts:77:20)\u001b[39m\n\u001b[90m  loadData (artifacts/vestia-app/app/(tabs)/index.tsx:35:59)\u001b[39m"]}
+{"_e":"metro:client_log","_t":1792955780153,"level":"error","data":["Failed to load data:","[Error: Could not find the table 'public.clothing_items' in the schema cache]","\n\n\u001b[1mCode: data.ts\u001b[22m\n\u001b[0m \u001b[90m 10 |\u001b[39m     \u001b[33m.\u001b[39morder(\u001b[32m'created_at'\u001b[39m\u001b[33m,\u001b[39m { ascending\u001b[33m:\u001b[39m \u001b[36mfalse\u001b[39m })\u001b[33m;\u001b[39m\n \u001b[90m 11 |\u001b[39m\n\u001b[31m\u001b[1m>\u001b[22m\u001b[39m\u001b[90m 12 |\u001b[39m   \u001b[36mif\u001b[39m (error) \u001b[36mthrow\u001b[39m \u001b[36mnew\u001b[39m \u001b[33mError\u001b[39m(error\u001b[33m.\u001b[39mmessage)\u001b[33m;\u001b[39m\n \u001b[90m    |\u001b[39m                    \u001b[31m\u001b[1m^\u001b[22m\u001b[39m\n \u001b[90m 13 |\u001b[39m   \u001b[36mreturn\u001b[39m \u001b[33mPromise\u001b[39m\u001b[33m.\u001b[39mall((data \u001b[33m||\u001b[39m [])\u001b[33m.\u001b[39mmap(withSignedClothingPhotos))\u001b[33m;\u001b[39m\n \u001b[90m 14 |\u001b[39m }\n \u001b[90m 15 |\u001b[39m\u001b[0m\n\u001b[1mCall Stack\u001b[22m\n\u001b[90m  fetchClothingItems (artifacts/vestia-app/lib/data.ts:12:20)\u001b[39m\n\u001b[90m  loadData (artifacts/vestia-app/app/(tabs)/index.tsx:35:59)\u001b[39m"]}
+{"_e":"metro:bundling:started","_t":1792955786675,"id":"e","platform":"web","environment":null,"entry":"node_modules/.pnpm/expo-router@57.0.28_a3433d1e364aa6717a37c62ac1c35dd1/node_modules/expo-router/entry.js"}
+{"_e":"metro:bundling:progress","_t":1792955786675,"id":"e","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:done","_t":1792955786750,"id":"e","total":1,"ms":74.742638}
+{"_e":"metro:client_log","_t":1792955787226,"level":"info","data":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"]}
+{"_e":"metro:client_log","_t":1792955787226,"level":"log","data":["Running application \"main\" with appParams:\n","{\"hydrate\": undefined, \"rootTag\": \"#root\"}","\nDevelopment-level warnings: ON.\nPerformance optimizations: OFF."]}
+{"_e":"metro:client_log","_t":1792955816679,"level":"error","data":["Failed to load data:","[Error: Could not find the table 'public.style_profiles' in the schema cache]","\n\n\u001b[1mCode: data.ts\u001b[22m\n\u001b[0m \u001b[90m 75 |\u001b[39m     \u001b[33m.\u001b[39mmaybeSingle()\u001b[33m;\u001b[39m\n \u001b[90m 76 |\u001b[39m\n\u001b[31m\u001b[1m>\u001b[22m\u001b[39m\u001b[90m 77 |\u001b[39m   \u001b[36mif\u001b[39m (error) \u001b[36mthrow\u001b[39m \u001b[36mnew\u001b[39m \u001b[33mError\u001b[39m(error\u001b[33m.\u001b[39mmessage)\u001b[33m;\u001b[39m\n \u001b[90m    |\u001b[39m                    \u001b[31m\u001b[1m^\u001b[22m\u001b[39m\n \u001b[90m 78 |\u001b[39m   \u001b[36mreturn\u001b[39m data\u001b[33m;\u001b[39m\n \u001b[90m 79 |\u001b[39m }\n \u001b[90m 80 |\u001b[39m\u001b[0m\n\u001b[1mCall Stack\u001b[22m\n\u001b[90m  fetchStyleProfile (artifacts/vestia-app/lib/data.ts:77:20)\u001b[39m\n\u001b[90m  loadData (artifacts/vestia-app/app/(tabs)/index.tsx:35:59)\u001b[39m"]}
+{"_e":"metro:client_log","_t":1792955829942,"level":"error","data":["Failed to load data:","[Error: Could not find the table 'public.clothing_items' in the schema cache]","\n\n\u001b[1mCode: data.ts\u001b[22m\n\u001b[0m \u001b[90m 10 |\u001b[39m     \u001b[33m.\u001b[39morder(\u001b[32m'created_at'\u001b[39m\u001b[33m,\u001b[39m { ascending\u001b[33m:\u001b[39m \u001b[36mfalse\u001b[39m })\u001b[33m;\u001b[39m\n \u001b[90m 11 |\u001b[39m\n\u001b[31m\u001b[1m>\u001b[22m\u001b[39m\u001b[90m 12 |\u001b[39m   \u001b[36mif\u001b[39m (error) \u001b[36mthrow\u001b[39m \u001b[36mnew\u001b[39m \u001b[33mError\u001b[39m(error\u001b[33m.\u001b[39mmessage)\u001b[33m;\u001b[39m\n \u001b[90m    |\u001b[39m                    \u001b[31m\u001b[1m^\u001b[22m\u001b[39m\n \u001b[90m 13 |\u001b[39m   \u001b[36mreturn\u001b[39m \u001b[33mPromise\u001b[39m\u001b[33m.\u001b[39mall((data \u001b[33m||\u001b[39m [])\u001b[33m.\u001b[39mmap(withSignedClothingPhotos))\u001b[33m;\u001b[39m\n \u001b[90m 14 |\u001b[39m }\n \u001b[90m 15 |\u001b[39m\u001b[0m\n\u001b[1mCall Stack\u001b[22m\n\u001b[90m  fetchClothingItems (artifacts/vestia-app/lib/data.ts:12:20)\u001b[39m\n\u001b[90m  loadData (artifacts/vestia-app/app/(tabs)/index.tsx:35:59)\u001b[39m"]}
+{"_e":"metro:client_log","_t":1792956025071,"level":"error","data":["Failed to load data:","[Error: Could not find the table 'public.style_profiles' in the schema cache]","\n\n\u001b[1mCode: data.ts\u001b[22m\n\u001b[0m \u001b[90m 75 |\u001b[39m     \u001b[33m.\u001b[39mmaybeSingle()\u001b[33m;\u001b[39m\n \u001b[90m 76 |\u001b[39m\n\u001b[31m\u001b[1m>\u001b[22m\u001b[39m\u001b[90m 77 |\u001b[39m   \u001b[36mif\u001b[39m (error) \u001b[36mthrow\u001b[39m \u001b[36mnew\u001b[39m \u001b[33mError\u001b[39m(error\u001b[33m.\u001b[39mmessage)\u001b[33m;\u001b[39m\n \u001b[90m    |\u001b[39m                    \u001b[31m\u001b[1m^\u001b[22m\u001b[39m\n \u001b[90m 78 |\u001b[39m   \u001b[36mreturn\u001b[39m data\u001b[33m;\u001b[39m\n \u001b[90m 79 |\u001b[39m }\n \u001b[90m 80 |\u001b[39m\u001b[0m\n\u001b[1mCall Stack\u001b[22m\n\u001b[90m  fetchStyleProfile (artifacts/vestia-app/lib/data.ts:77:20)\u001b[39m\n\u001b[90m  loadData (artifacts/vestia-app/app/(tabs)/index.tsx:35:59)\u001b[39m"]}
+{"_e":"metro:client_log","_t":1792956029499,"level":"error","data":["Failed to load items:","[Error: Could not find the table 'public.clothing_items' in the schema cache]","\n\n\u001b[1mCode: data.ts\u001b[22m\n\u001b[0m \u001b[90m 10 |\u001b[39m     \u001b[33m.\u001b[39morder(\u001b[32m'created_at'\u001b[39m\u001b[33m,\u001b[39m { ascending\u001b[33m:\u001b[39m \u001b[36mfalse\u001b[39m })\u001b[33m;\u001b[39m\n \u001b[90m 11 |\u001b[39m\n\u001b[31m\u001b[1m>\u001b[22m\u001b[39m\u001b[90m 12 |\u001b[39m   \u001b[36mif\u001b[39m (error) \u001b[36mthrow\u001b[39m \u001b[36mnew\u001b[39m \u001b[33mError\u001b[39m(error\u001b[33m.\u001b[39mmessage)\u001b[33m;\u001b[39m\n \u001b[90m    |\u001b[39m                    \u001b[31m\u001b[1m^\u001b[22m\u001b[39m\n \u001b[90m 13 |\u001b[39m   \u001b[36mreturn\u001b[39m \u001b[33mPromise\u001b[39m\u001b[33m.\u001b[39mall((data \u001b[33m||\u001b[39m [])\u001b[33m.\u001b[39mmap(withSignedClothingPhotos))\u001b[33m;\u001b[39m\n \u001b[90m 14 |\u001b[39m }\n \u001b[90m 15 |\u001b[39m\u001b[0m\n\u001b[1mCall Stack\u001b[22m\n\u001b[90m  fetchClothingItems (artifacts/vestia-app/lib/data.ts:12:20)\u001b[39m\n\u001b[90m  loadItems (artifacts/vestia-app/app/(tabs)/wardrobe.tsx:116:20)\u001b[39m"]}
+{"_e":"metro:client_log","_t":1792956031957,"level":"warn","data":["[expo-image-picker] `ImagePicker.MediaTypeOptions` have been deprecated. Use `ImagePicker.MediaType` or an array of `ImagePicker.MediaType` instead."]}
+{"_e":"metro:client_log","_t":1792956213382,"level":"error","data":["Failed to load items:","[Error: Could not find the table 'public.clothing_items' in the schema cache]","\n\n\u001b[1mCode: data.ts\u001b[22m\n\u001b[0m \u001b[90m 10 |\u001b[39m     \u001b[33m.\u001b[39morder(\u001b[32m'created_at'\u001b[39m\u001b[33m,\u001b[39m { ascending\u001b[33m:\u001b[39m \u001b[36mfalse\u001b[39m })\u001b[33m;\u001b[39m\n \u001b[90m 11 |\u001b[39m\n\u001b[31m\u001b[1m>\u001b[22m\u001b[39m\u001b[90m 12 |\u001b[39m   \u001b[36mif\u001b[39m (error) \u001b[36mthrow\u001b[39m \u001b[36mnew\u001b[39m \u001b[33mError\u001b[39m(error\u001b[33m.\u001b[39mmessage)\u001b[33m;\u001b[39m\n \u001b[90m    |\u001b[39m                    \u001b[31m\u001b[1m^\u001b[22m\u001b[39m\n \u001b[90m 13 |\u001b[39m   \u001b[36mreturn\u001b[39m \u001b[33mPromise\u001b[39m\u001b[33m.\u001b[39mall((data \u001b[33m||\u001b[39m [])\u001b[33m.\u001b[39mmap(withSignedClothingPhotos))\u001b[33m;\u001b[39m\n \u001b[90m 14 |\u001b[39m }\n \u001b[90m 15 |\u001b[39m\u001b[0m\n\u001b[1mCall Stack\u001b[22m\n\u001b[90m  fetchClothingItems (artifacts/vestia-app/lib/data.ts:12:20)\u001b[39m\n\u001b[90m  loadItems (artifacts/vestia-app/app/(tabs)/wardrobe.tsx:116:20)\u001b[39m"]}
+{"_e":"metro:client_log","_t":1792956582674,"level":"error","data":["Failed to load items:","[Error: Could not find the table 'public.clothing_items' in the schema cache]","\n\n\u001b[1mCode: data.ts\u001b[22m\n\u001b[0m \u001b[90m 10 |\u001b[39m     \u001b[33m.\u001b[39morder(\u001b[32m'created_at'\u001b[39m\u001b[33m,\u001b[39m { ascending\u001b[33m:\u001b[39m \u001b[36mfalse\u001b[39m })\u001b[33m;\u001b[39m\n \u001b[90m 11 |\u001b[39m\n\u001b[31m\u001b[1m>\u001b[22m\u001b[39m\u001b[90m 12 |\u001b[39m   \u001b[36mif\u001b[39m (error) \u001b[36mthrow\u001b[39m \u001b[36mnew\u001b[39m \u001b[33mError\u001b[39m(error\u001b[33m.\u001b[39mmessage)\u001b[33m;\u001b[39m\n \u001b[90m    |\u001b[39m                    \u001b[31m\u001b[1m^\u001b[22m\u001b[39m\n \u001b[90m 13 |\u001b[39m   \u001b[36mreturn\u001b[39m \u001b[33mPromise\u001b[39m\u001b[33m.\u001b[39mall((data \u001b[33m||\u001b[39m [])\u001b[33m.\u001b[39mmap(withSignedClothingPhotos))\u001b[33m;\u001b[39m\n \u001b[90m 14 |\u001b[39m }\n \u001b[90m 15 |\u001b[39m\u001b[0m\n\u001b[1mCall Stack\u001b[22m\n\u001b[90m  fetchClothingItems (artifacts/vestia-app/lib/data.ts:12:20)\u001b[39m\n\u001b[90m  loadItems (artifacts/vestia-app/app/(tabs)/wardrobe.tsx:116:20)\u001b[39m"]}
+{"_e":"metro:client_log","_t":1792956725092,"level":"error","data":["Failed to load items:","[Error: Could not find the table 'public.clothing_items' in the schema cache]","\n\n\u001b[1mCode: data.ts\u001b[22m\n\u001b[0m \u001b[90m 10 |\u001b[39m     \u001b[33m.\u001b[39morder(\u001b[32m'created_at'\u001b[39m\u001b[33m,\u001b[39m { ascending\u001b[33m:\u001b[39m \u001b[36mfalse\u001b[39m })\u001b[33m;\u001b[39m\n \u001b[90m 11 |\u001b[39m\n\u001b[31m\u001b[1m>\u001b[22m\u001b[39m\u001b[90m 12 |\u001b[39m   \u001b[36mif\u001b[39m (error) \u001b[36mthrow\u001b[39m \u001b[36mnew\u001b[39m \u001b[33mError\u001b[39m(error\u001b[33m.\u001b[39mmessage)\u001b[33m;\u001b[39m\n \u001b[90m    |\u001b[39m                    \u001b[31m\u001b[1m^\u001b[22m\u001b[39m\n \u001b[90m 13 |\u001b[39m   \u001b[36mreturn\u001b[39m \u001b[33mPromise\u001b[39m\u001b[33m.\u001b[39mall((data \u001b[33m||\u001b[39m [])\u001b[33m.\u001b[39mmap(withSignedClothingPhotos))\u001b[33m;\u001b[39m\n \u001b[90m 14 |\u001b[39m }\n \u001b[90m 15 |\u001b[39m\u001b[0m\n\u001b[1mCall Stack\u001b[22m\n\u001b[90m  fetchClothingItems (artifacts/vestia-app/lib/data.ts:12:20)\u001b[39m\n\u001b[90m  loadItems (artifacts/vestia-app/app/(tabs)/wardrobe.tsx:116:20)\u001b[39m"]}
+{"_e":"metro:client_log","_t":1792956949082,"level":"warn","data":["[expo-image-picker] `ImagePicker.MediaTypeOptions` have been deprecated. Use `ImagePicker.MediaType` or an array of `ImagePicker.MediaType` instead."]}
+{"_e":"metro:bundling:started","_t":1792957390480,"id":"14","platform":"web","environment":null,"entry":"node_modules/.pnpm/expo-router@57.0.28_a3433d1e364aa6717a37c62ac1c35dd1/node_modules/expo-router/entry.js"}
+{"_e":"metro:bundling:progress","_t":1792957390480,"id":"14","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:done","_t":1792957390553,"id":"14","total":1,"ms":72.986918}
+{"_e":"metro:client_log","_t":1792957390965,"level":"info","data":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"]}
+{"_e":"metro:client_log","_t":1792957390965,"level":"log","data":["Running application \"main\" with appParams:\n","{\"hydrate\": undefined, \"rootTag\": \"#root\"}","\nDevelopment-level warnings: ON.\nPerformance optimizations: OFF."]}
+{"_e":"metro:bundling:started","_t":1792957506811,"id":"1c","platform":"web","environment":null,"entry":"node_modules/.pnpm/expo-router@57.0.28_a3433d1e364aa6717a37c62ac1c35dd1/node_modules/expo-router/entry.js"}
+{"_e":"metro:bundling:progress","_t":1792957506812,"id":"1c","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:done","_t":1792957506945,"id":"1c","total":1,"ms":133.027596}
+{"_e":"metro:client_log","_t":1792957507400,"level":"info","data":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"]}
+{"_e":"metro:client_log","_t":1792957507400,"level":"log","data":["Running application \"main\" with appParams:\n","{\"hydrate\": undefined, \"rootTag\": \"#root\"}","\nDevelopment-level warnings: ON.\nPerformance optimizations: OFF."]}
+{"_e":"metro:bundling:started","_t":1792958410574,"id":"1l","platform":"web","environment":null,"entry":"node_modules/.pnpm/expo-router@57.0.28_a3433d1e364aa6717a37c62ac1c35dd1/node_modules/expo-router/entry.js"}
+{"_e":"metro:bundling:progress","_t":1792958410574,"id":"1l","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:done","_t":1792958410697,"id":"1l","total":1,"ms":122.379207}
+{"_e":"metro:client_log","_t":1792958411176,"level":"info","data":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"]}
+{"_e":"metro:client_log","_t":1792958411176,"level":"log","data":["Running application \"main\" with appParams:\n","{\"hydrate\": undefined, \"rootTag\": \"#root\"}","\nDevelopment-level warnings: ON.\nPerformance optimizations: OFF."]}
+{"_e":"metro:client_log","_t":1792958629924,"level":"warn","data":["[expo-image-picker] `ImagePicker.MediaTypeOptions` have been deprecated. Use `ImagePicker.MediaType` or an array of `ImagePicker.MediaType` instead."]}
+{"_e":"metro:client_log","_t":1792958644273,"level":"warn","data":["[expo-image-picker] `ImagePicker.MediaTypeOptions` have been deprecated. Use `ImagePicker.MediaType` or an array of `ImagePicker.MediaType` instead."]}
+{"_e":"metro:client_log","_t":1792958818701,"level":"warn","data":["[expo-image-picker] `ImagePicker.MediaTypeOptions` have been deprecated. Use `ImagePicker.MediaType` or an array of `ImagePicker.MediaType` instead."]}
+{"_e":"metro:bundling:started","_t":1792958984959,"id":"1s","platform":"web","environment":null,"entry":"node_modules/.pnpm/expo-router@57.0.28_a3433d1e364aa6717a37c62ac1c35dd1/node_modules/expo-router/entry.js"}
+{"_e":"metro:bundling:progress","_t":1792958984959,"id":"1s","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:done","_t":1792958985074,"id":"1s","total":1,"ms":114.656543}
+{"_e":"metro:client_log","_t":1792958986961,"level":"log","data":["Running application \"main\" with appParams:\n","{\"hydrate\": undefined, \"rootTag\": \"#root\"}","\nDevelopment-level warnings: ON.\nPerformance optimizations: OFF."]}
+{"_e":"root:init","_t":1793040038484,"format":"v0-jsonl","version":"57.0.31"}
+{"_e":"env:mode","_t":1793040038485,"nodeEnv":"development","babelEnv":"development","mode":"development"}
+{"_e":"env:load","_t":1793040038488,"mode":"development","files":[],"env":{}}
+{"_e":"devserver:start","_t":1793040040399,"mode":"development","web":true,"baseUrl":"","asyncRoutes":false,"routerRoot":"../../../app","serverComponents":false,"serverActions":false,"serverRendering":false,"apiRoutes":false,"exporting":false}
+{"_e":"metro:config","_t":1793040042890,"serverRoot":"../../../../..","projectRoot":"../../..","exporting":false,"flags":{"autolinkingModuleResolution":true,"serverActions":false,"serverComponents":false,"reactCompiler":true,"optimizeGraph":false,"treeshaking":false,"logbox":false}}
+{"_e":"expo:dev-tools-plugin:load","_t":1793040043396,"plugins":[]}
+{"_e":"metro:server_log","_t":1793040044423,"level":"error","data":["An unknown error occurred while installing React Native DevTools. Details:\n\n/home/runner/workspace/node_modules/.pnpm/@react-native+debugger-shell@0.86.3/node_modules/@react-native/debugger-shell/bin/react-native-devtools: error while loading shared libraries: libglib-2.0.so.0: cannot open shared object file: No such file or directory\n"]}
+{"_e":"metro:instantiate","_t":1793040045433,"atlas":false,"workers":3,"host":"127.0.0.1","port":22043}
+{"_e":"metro:bundling:started","_t":1793040046591,"id":"1","platform":"web","environment":null,"entry":"node_modules/.pnpm/expo-router@57.0.28_a3433d1e364aa6717a37c62ac1c35dd1/node_modules/expo-router/entry.js"}
+{"_e":"metro:bundling:progress","_t":1793040046591,"id":"1","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1793040046594,"id":"1","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1793040047036,"id":"1","progress":0.010000000000000002,"total":1,"current":1}
+{"_e":"metro:bundling:progress","_t":1793040047136,"id":"1","progress":0.36,"total":10,"current":6}
+{"_e":"metro:bundling:progress","_t":1793040047369,"id":"1","progress":0.48999999999999994,"total":10,"current":7}
+{"_e":"metro:bundling:progress","_t":1793040047469,"id":"1","progress":0.48999999999999994,"total":32,"current":13}
+{"_e":"metro:bundling:progress","_t":1793040047612,"id":"1","progress":0.48999999999999994,"total":32,"current":15}
+{"_e":"metro:bundling:progress","_t":1793040047733,"id":"1","progress":0.48999999999999994,"total":35,"current":19}
+{"_e":"metro:bundling:progress","_t":1793040047833,"id":"1","progress":0.48999999999999994,"total":132,"current":30}
+{"_e":"metro:bundling:progress","_t":1793040047934,"id":"1","progress":0.48999999999999994,"total":162,"current":51}
+{"_e":"metro:bundling:progress","_t":1793040048033,"id":"1","progress":0.48999999999999994,"total":184,"current":72}
+{"_e":"metro:bundling:progress","_t":1793040048133,"id":"1","progress":0.48999999999999994,"total":198,"current":84}
+{"_e":"metro:bundling:progress","_t":1793040048233,"id":"1","progress":0.48999999999999994,"total":215,"current":108}
+{"_e":"metro:bundling:progress","_t":1793040048334,"id":"1","progress":0.48999999999999994,"total":237,"current":126}
+{"_e":"metro:bundling:progress","_t":1793040048435,"id":"1","progress":0.48999999999999994,"total":279,"current":148}
+{"_e":"metro:bundling:progress","_t":1793040048535,"id":"1","progress":0.48999999999999994,"total":311,"current":167}
+{"_e":"metro:bundling:progress","_t":1793040048635,"id":"1","progress":0.48999999999999994,"total":324,"current":186}
+{"_e":"metro:bundling:progress","_t":1793040048736,"id":"1","progress":0.48999999999999994,"total":339,"current":210}
+{"_e":"metro:bundling:progress","_t":1793040048836,"id":"1","progress":0.48999999999999994,"total":364,"current":224}
+{"_e":"metro:bundling:progress","_t":1793040048948,"id":"1","progress":0.48999999999999994,"total":371,"current":226}
+{"_e":"metro:bundling:progress","_t":1793040049027,"id":"1","progress":0.48999999999999994,"total":371,"current":227}
+{"_e":"metro:bundling:progress","_t":1793040049129,"id":"1","progress":0.48999999999999994,"total":371,"current":230}
+{"_e":"metro:bundling:progress","_t":1793040049230,"id":"1","progress":0.48999999999999994,"total":375,"current":236}
+{"_e":"metro:bundling:progress","_t":1793040049330,"id":"1","progress":0.48999999999999994,"total":385,"current":247}
+{"_e":"metro:bundling:progress","_t":1793040049433,"id":"1","progress":0.48999999999999994,"total":413,"current":260}
+{"_e":"metro:bundling:progress","_t":1793040049533,"id":"1","progress":0.48999999999999994,"total":461,"current":281}
+{"_e":"metro:bundling:progress","_t":1793040049633,"id":"1","progress":0.48999999999999994,"total":482,"current":312}
+{"_e":"metro:bundling:progress","_t":1793040049734,"id":"1","progress":0.48999999999999994,"total":502,"current":330}
+{"_e":"metro:bundling:progress","_t":1793040049835,"id":"1","progress":0.48999999999999994,"total":517,"current":348}
+{"_e":"metro:bundling:progress","_t":1793040049940,"id":"1","progress":0.48999999999999994,"total":525,"current":363}
+{"_e":"metro:bundling:progress","_t":1793040050040,"id":"1","progress":0.48999999999999994,"total":529,"current":370}
+{"_e":"metro:bundling:progress","_t":1793040050146,"id":"1","progress":0.48999999999999994,"total":555,"current":384}
+{"_e":"metro:bundling:progress","_t":1793040050246,"id":"1","progress":0.48999999999999994,"total":566,"current":391}
+{"_e":"metro:bundling:progress","_t":1793040050347,"id":"1","progress":0.48999999999999994,"total":578,"current":402}
+{"_e":"metro:bundling:progress","_t":1793040050457,"id":"1","progress":0.48999999999999994,"total":588,"current":411}
+{"_e":"metro:bundling:progress","_t":1793040050563,"id":"1","progress":0.5074452947626695,"total":591,"current":421}
+{"_e":"metro:bundling:progress","_t":1793040050663,"id":"1","progress":0.5074452947626695,"total":605,"current":428}
+{"_e":"metro:bundling:progress","_t":1793040050763,"id":"1","progress":0.5189685768698061,"total":608,"current":438}
+{"_e":"metro:bundling:progress","_t":1793040050903,"id":"1","progress":0.5321822090835797,"total":610,"current":445}
+{"_e":"metro:bundling:progress","_t":1793040051017,"id":"1","progress":0.5321822090835797,"total":2504,"current":446}
+{"_e":"metro:bundling:progress","_t":1793040051121,"id":"1","progress":0.5321822090835797,"total":2505,"current":449}
+{"_e":"metro:bundling:progress","_t":1793040051262,"id":"1","progress":0.5321822090835797,"total":2546,"current":463}
+{"_e":"metro:bundling:progress","_t":1793040051362,"id":"1","progress":0.5321822090835797,"total":2564,"current":485}
+{"_e":"metro:bundling:progress","_t":1793040051463,"id":"1","progress":0.5321822090835797,"total":2584,"current":515}
+{"_e":"metro:bundling:progress","_t":1793040051563,"id":"1","progress":0.5321822090835797,"total":2613,"current":553}
+{"_e":"metro:bundling:progress","_t":1793040051663,"id":"1","progress":0.5321822090835797,"total":2627,"current":576}
+{"_e":"metro:bundling:progress","_t":1793040051764,"id":"1","progress":0.5321822090835797,"total":2629,"current":612}
+{"_e":"metro:bundling:progress","_t":1793040051866,"id":"1","progress":0.5321822090835797,"total":2633,"current":665}
+{"_e":"metro:bundling:progress","_t":1793040051968,"id":"1","progress":0.5321822090835797,"total":2633,"current":713}
+{"_e":"metro:bundling:progress","_t":1793040052068,"id":"1","progress":0.5321822090835797,"total":2633,"current":766}
+{"_e":"metro:bundling:progress","_t":1793040052168,"id":"1","progress":0.5321822090835797,"total":2633,"current":814}
+{"_e":"metro:bundling:progress","_t":1793040052268,"id":"1","progress":0.5321822090835797,"total":2633,"current":869}
+{"_e":"metro:bundling:progress","_t":1793040052368,"id":"1","progress":0.5321822090835797,"total":2633,"current":920}
+{"_e":"metro:bundling:progress","_t":1793040052468,"id":"1","progress":0.5321822090835797,"total":2633,"current":985}
+{"_e":"metro:bundling:progress","_t":1793040052568,"id":"1","progress":0.5321822090835797,"total":2633,"current":1037}
+{"_e":"metro:bundling:progress","_t":1793040052668,"id":"1","progress":0.5321822090835797,"total":2633,"current":1090}
+{"_e":"metro:bundling:progress","_t":1793040052768,"id":"1","progress":0.5321822090835797,"total":2633,"current":1119}
+{"_e":"metro:bundling:progress","_t":1793040052872,"id":"1","progress":0.5321822090835797,"total":2633,"current":1165}
+{"_e":"metro:bundling:progress","_t":1793040052973,"id":"1","progress":0.5321822090835797,"total":2633,"current":1219}
+{"_e":"metro:bundling:progress","_t":1793040053073,"id":"1","progress":0.5321822090835797,"total":2633,"current":1265}
+{"_e":"metro:bundling:progress","_t":1793040053173,"id":"1","progress":0.5321822090835797,"total":2633,"current":1312}
+{"_e":"metro:bundling:progress","_t":1793040053273,"id":"1","progress":0.5321822090835797,"total":2633,"current":1364}
+{"_e":"metro:bundling:progress","_t":1793040053376,"id":"1","progress":0.5321822090835797,"total":2633,"current":1415}
+{"_e":"metro:bundling:progress","_t":1793040053476,"id":"1","progress":0.5321822090835797,"total":2633,"current":1466}
+{"_e":"metro:bundling:progress","_t":1793040053576,"id":"1","progress":0.5321822090835797,"total":2633,"current":1519}
+{"_e":"metro:bundling:progress","_t":1793040053676,"id":"1","progress":0.5321822090835797,"total":2633,"current":1568}
+{"_e":"metro:bundling:progress","_t":1793040053778,"id":"1","progress":0.5321822090835797,"total":2633,"current":1623}
+{"_e":"metro:bundling:progress","_t":1793040053878,"id":"1","progress":0.5321822090835797,"total":2633,"current":1668}
+{"_e":"metro:bundling:progress","_t":1793040053980,"id":"1","progress":0.5321822090835797,"total":2633,"current":1727}
+{"_e":"metro:bundling:progress","_t":1793040054079,"id":"1","progress":0.5321822090835797,"total":2633,"current":1788}
+{"_e":"metro:bundling:progress","_t":1793040054181,"id":"1","progress":0.5321822090835797,"total":2633,"current":1844}
+{"_e":"metro:bundling:progress","_t":1793040054283,"id":"1","progress":0.5321822090835797,"total":2633,"current":1905}
+{"_e":"metro:bundling:progress","_t":1793040054383,"id":"1","progress":0.5490511690341223,"total":2633,"current":1951}
+{"_e":"metro:bundling:progress","_t":1793040054483,"id":"1","progress":0.5792869116153919,"total":2633,"current":2004}
+{"_e":"metro:bundling:progress","_t":1793040054584,"id":"1","progress":0.6133037267357586,"total":2633,"current":2062}
+{"_e":"metro:bundling:progress","_t":1793040054688,"id":"1","progress":0.6525792517160368,"total":2633,"current":2127}
+{"_e":"metro:bundling:progress","_t":1793040054785,"id":"1","progress":0.6892846339998808,"total":2633,"current":2186}
+{"_e":"metro:bundling:progress","_t":1793040054885,"id":"1","progress":0.7295871775006783,"total":2633,"current":2249}
+{"_e":"metro:bundling:progress","_t":1793040054985,"id":"1","progress":0.7710347312565152,"total":2633,"current":2312}
+{"_e":"metro:bundling:progress","_t":1793040055086,"id":"1","progress":0.8067901214088791,"total":2633,"current":2365}
+{"_e":"metro:bundling:progress","_t":1793040055187,"id":"1","progress":0.8426584547496648,"total":2633,"current":2417}
+{"_e":"metro:bundling:progress","_t":1793040055287,"id":"1","progress":0.8893070206957213,"total":2633,"current":2483}
+{"_e":"metro:bundling:progress","_t":1793040055387,"id":"1","progress":0.9120430530193931,"total":2645,"current":2526}
+{"_e":"metro:bundling:progress","_t":1793040055488,"id":"1","progress":0.9290958874194675,"total":2659,"current":2563}
+{"_e":"metro:bundling:progress","_t":1793040055591,"id":"1","progress":0.9329152321496182,"total":2696,"current":2604}
+{"_e":"metro:bundling:progress","_t":1793040055692,"id":"1","progress":0.9426098066550739,"total":2713,"current":2634}
+{"_e":"metro:bundling:progress","_t":1793040055792,"id":"1","progress":0.9531005964846475,"total":2739,"current":2674}
+{"_e":"metro:bundling:progress","_t":1793040055892,"id":"1","progress":0.9531005964846475,"total":2768,"current":2702}
+{"_e":"metro:bundling:progress","_t":1793040055993,"id":"1","progress":0.9531005964846475,"total":2791,"current":2717}
+{"_e":"metro:bundling:progress","_t":1793040056093,"id":"1","progress":0.9562663690143082,"total":2804,"current":2742}
+{"_e":"metro:bundling:progress","_t":1793040056199,"id":"1","progress":0.9626069644321069,"total":2808,"current":2755}
+{"_e":"metro:bundling:progress","_t":1793040056304,"id":"1","progress":0.9656226506572023,"total":2826,"current":2777}
+{"_e":"metro:bundling:progress","_t":1793040056404,"id":"1","progress":0.965980632449058,"total":2856,"current":2807}
+{"_e":"metro:bundling:progress","_t":1793040056504,"id":"1","progress":0.965980632449058,"total":2891,"current":2822}
+{"_e":"metro:bundling:progress","_t":1793040056607,"id":"1","progress":0.965980632449058,"total":2895,"current":2837}
+{"_e":"metro:bundling:progress","_t":1793040056708,"id":"1","progress":0.9767449813617866,"total":2907,"current":2873}
+{"_e":"metro:bundling:progress","_t":1793040056809,"id":"1","progress":0.9876882158587068,"total":2915,"current":2897}
+{"_e":"metro:bundling:progress","_t":1793040056913,"id":"1","progress":0.9918005129015929,"total":2921,"current":2909}
+{"_e":"metro:bundling:progress","_t":1793040057013,"id":"1","progress":0.9972714883108713,"total":2930,"current":2926}
+{"_e":"metro:bundling:progress","_t":1793040057114,"id":"1","progress":0.999,"total":2930,"current":2930}
+{"_e":"metro:bundling:done","_t":1793040057202,"id":"1","total":2930,"ms":10611.450564}
+{"_e":"metro:client_log","_t":1793040058543,"level":"log","data":["Running application \"main\" with appParams:\n","{\"hydrate\": undefined, \"rootTag\": \"#root\"}","\nDevelopment-level warnings: ON.\nPerformance optimizations: OFF."]}

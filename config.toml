@@ -1,0 +1,8 @@
+[functions.analyze-clothing]
+verify_jwt = true
+
+[functions.generate-outfit]
+verify_jwt = true
+
+[functions.packing-assistant]
+verify_jwt = true
